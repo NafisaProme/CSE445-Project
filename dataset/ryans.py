@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 
 # Send a GET request to the website
-url = 'https://www.ryanscomputers.com/category/laptop-all-laptop?limit=2&osp=0'
+url = 'https://www.ryanscomputers.com/category/laptop-all-laptop?limit=20&osp=0'
 response = requests.get(url)
 
 # Parse the HTML content using BeautifulSoup
