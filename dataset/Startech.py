@@ -33,14 +33,11 @@ with open('dataset/startech.csv', 'w', encoding='utf8', newline='') as f:
         thewriter.writerow(info)
         break
 
-count = 1
-
 with open('dataset/startech.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for page_num in range(1,9):
         url = url[:-1]
         url = url + str(page_num)
-        print(url)
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -85,7 +82,3 @@ with open('dataset/startech.csv', 'a', encoding='utf8', newline='') as f:
                     
                 
                 thewriter.writerow(info)
-            count = count + 1  
-
-
-
