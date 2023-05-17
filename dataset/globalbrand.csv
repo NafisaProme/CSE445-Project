@@ -1,0 +1,962 @@
+Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year)
+Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year)
+Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 1TB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3070 8GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3070 8GB GDDR6, Boost Clock 1410MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots
+",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,"230W Slim Tip (3-pin)
+",Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"White Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,Office Home & Student 2021,Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1690i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 1TB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3070 8GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3070 8GB GDDR6, Boost Clock 1410MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots
+",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,"230W Slim Tip (3-pin)
+",Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"White Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,Office Home & Student 2021,Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1690i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year)
+Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"512GB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,230W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"RGB Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1675i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 1TB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3070 8GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3070 8GB GDDR6, Boost Clock 1410MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots
+",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,"230W Slim Tip (3-pin)
+",Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"White Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,Office Home & Student 2021,Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1690i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,Processor: Intel Core i7-12700H,attr -Key Feature 2 > ,Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,Storage: 1TB SSD M.2 2280 PCIe 4.0x4 NVMe,attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3070 8GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB
+",Graphics,"NVIDIA GeForce RTX 3070 8GB GDDR6, Boost Clock 1410MHz, TGP 100W
+",Chipset,"Intel SoC Platform
+",Memory,"8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800
+",Memory Slots,"One memory soldered to systemboard, one DDR5 SO-DIMM slot, dual-channel capable
+",Max Memory,"Up to 24GB (8GB soldered + 16GB SO-DIMM) DDR5-4800 offering
+",Storage,"1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2280 SSD up to 1TB"" 
+Two M.2 2280 PCIe 4.0 x4 slots
+",Card Reader,"4-in-1 Card Reader
+",Optical,"None
+",Audio Chip,"High Definition (HD) Audio, Realtek ALC3306 codec
+",Speakers,"Stereo speakers, 2W x2, audio by HARMAN certification, optimized with Nahimic Audio
+",Camera,"FHD 1080p with E-shutter
+",Microphone,"2x, Array
+",Battery,"Integrated 99.99Wh
+",Max Battery Life,"""Models with 99.99Wh battery: 
+MobileMark 2018: 8.6 hr
+Local video (1080p) playback: 11.3 hr""
+",Power Adapter,"230W Slim Tip (3-pin)
+",Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"White Backlit, English (EU)
+",Case Color,"Onyx Grey
+",Surface Treatment,"Iron Sandblasting (Anodized)
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"357.7 x 260 x 16.9 mm (14.08 x 10.24 x 0.67 inches)
+",Weight,"Less than 2.23 kg (4.9 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,Office Home & Student 2021,Ethernet,"No Onboard Ethernet
+",WLAN + Bluetooth,"Intel Killer Wi-Fi 6E AX1690i, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Card reader
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+1x USB 3.2 Gen 2
+1x HDMI, up to 8K/60Hz
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"Touch Style, Integrated in Power Button
+",Other Security,"E-shutter
+",Green Certifications,"""ErP Lot 3 
+RoHS compliant""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,2-Years (Battery + Adapter 1 Year),Key Features ,attr - Key Feature 1 > ,"Processor: Intel Core i7-12700H
+",attr -Key Feature 2 > ,Memory: 2x 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,"Storage: 1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+",attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1702MHz, TGP 140W
+",Chipset,"Intel SoC Platform
+",Memory,"2x 8GB SO-DIMM DDR5-4800
+",Memory Slots,"Two DDR5 SO-DIMM slots, dual-channel capable
+",Max Memory,"Up to 32GB DDR5-4800 offering
+",Storage,"1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2242 SSD up to 512GB 
+• M.2 2280 SSD up to 1TB""
+Two M.2 2280 PCIe 4.0 x4 slots
+",Card Reader,"None
+",Optical,None,Audio Chip,"High Definition (HD) Audio, Realtek ALC3287 codec",Speakers,"Stereo speakers, 2W x2, Nahimic Audio",Camera,HD 720p with E-shutter,Microphone,"2x, Array",Battery,"Integrated 80Wh
+",Max Battery Life,"MobileMark 2018: 4.01 hr (discrete mode) or 6.55 hr (hybrid mode)
+",Power Adapter,300W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 240Hz, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"4-Zone RGB Backlit, English (EU)
+",Case Color,"Storm Grey
+",Surface Treatment,"Anodizing
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"359.9 x 264.4 x 19.9 mm (14.17 x 10.41 x 0.78 inches)
+",Weight,"Starting at 2.49 kg (5.49 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"100/1000M (RJ-45)
+",WLAN + Bluetooth,"Wi-Fi 6E, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+2x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer and DisplayPort 1.4)
+1x Ethernet (RJ-45)
+1x HDMI, up to 8K/60Hz
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"None
+",Other Security,"E-shutter
+",Green Certifications,"""RoHS compliant 
+ErP Lot 3""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,"2-Years (Battery + Adapter 1 Year)
+",Key Features ,attr - Key Feature 1 > ,"Processor: Intel Core i7-12700H
+",attr -Key Feature 2 > ,Memory: 2x 8GB SO-DIMM DDR5-4800,attr -Key Feature 3 > ,"Storage: 1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+",attr -Key Feature 4 > ,GPU: NVIDIA GeForce RTX 3060 6GB GDDR6,attr -Key Feature 5 > ,"Display: 16"" WQXGA (2560x1600) IPS 500nits Anti-glare",Lenovo Laptop,Processor,"Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB",Graphics,"NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1702MHz, TGP 140W
+",Chipset,"Intel SoC Platform
+",Memory,"2x 8GB SO-DIMM DDR5-4800
+",Memory Slots,"Two DDR5 SO-DIMM slots, dual-channel capable
+",Max Memory,"Up to 32GB DDR5-4800 offering
+",Storage,"1TB SSD M.2 2280 PCIe 4.0x4 NVMe
+",Storage Support,"""Up to two drives, 2x M.2 SSD 
+• M.2 2242 SSD up to 512GB 
+• M.2 2280 SSD up to 1TB""
+Two M.2 2280 PCIe 4.0 x4 slots
+",Card Reader,"None
+",Optical,None,Audio Chip,"High Definition (HD) Audio, Realtek ALC3287 codec",Speakers,"Stereo speakers, 2W x2, Nahimic Audio",Camera,HD 720p with E-shutter,Microphone,"2x, Array",Battery,"Integrated 80Wh
+",Max Battery Life,"MobileMark 2018: 4.01 hr (discrete mode) or 6.55 hr (hybrid mode)
+",Power Adapter,300W Slim Tip (3-pin),Display,"16"" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 240Hz, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance
+",Color Calibrator,"Factory Color Calibration
+",Touchscreen,"None
+",Keyboard,"4-Zone RGB Backlit, English (EU)
+",Case Color,"Storm Grey
+",Surface Treatment,"Anodizing
+",Case Material,"Aluminium (Top), Aluminium (Bottom)
+",Dimensions (WxDxH),"359.9 x 264.4 x 19.9 mm (14.17 x 10.41 x 0.78 inches)
+",Weight,"Starting at 2.49 kg (5.49 lbs)
+",Operating System,"Windows 11 Home Single Language, English
+",Bundled Software,"Office Trial
+",Ethernet,"100/1000M (RJ-45)
+",WLAN + Bluetooth,"Wi-Fi 6E, 11ax 2x2 + BT5.1
+",Standard Ports,"""1x Headphone / microphone combo jack (3.5mm) 
+1x Thunderbolt 4 / USB4 40Gbps (support data transfer and DisplayPort 1.4)
+1x USB 3.2 Gen 1 (Always On)
+2x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 2 (support data transfer and DisplayPort 1.4)
+1x Ethernet (RJ-45)
+1x HDMI, up to 8K/60Hz
+1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 135W and DisplayPort 1.4)
+1x Power connector""
+",Security Chip,"Firmware TPM 2.0
+",Fingerprint Reader,"None
+",Other Security,"E-shutter
+",Green Certifications,"""RoHS compliant 
+ErP Lot 3""
+",Other Certifications,"""TÜV Rheinland Low Blue Light (Hardware Solution) 
+TÜV Rheinland High Gaming Performance (WQXGA display models only)""
+",Base Warranty,"2-Years (Battery + Adapter 1 Year)
+"
