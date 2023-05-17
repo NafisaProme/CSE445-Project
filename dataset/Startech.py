@@ -33,6 +33,7 @@ with open('laptop.csv', 'w', encoding='utf8', newline='') as f:
 
 with open('laptop.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
+
     for laptop in soup.find_all('h4', class_='p-item-name'):
         laptop_link = laptop.find('a')['href']
         laptop_links.append(laptop_link)
