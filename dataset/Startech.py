@@ -13,7 +13,7 @@ page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
 laptop_links = []
 
-with open('dataset/Startech.csv', 'w', encoding='utf8', newline='') as f:
+with open('dataset/startech.csv', 'w', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for laptop in soup.find_all('h4', class_='p-item-name'):
         laptop_link = laptop.find('a')['href']
@@ -35,21 +35,14 @@ with open('dataset/Startech.csv', 'w', encoding='utf8', newline='') as f:
 
 count = 1
 
-with open('dataset/Startech.csv', 'a', encoding='utf8', newline='') as f:
+with open('dataset/startech.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
-<<<<<<< HEAD
-
-    for laptop in soup.find_all('h4', class_='p-item-name'):
-        laptop_link = laptop.find('a')['href']
-        laptop_links.append(laptop_link)
-=======
     for page_num in range(1,9):
         url = url[:-1]
         url = url + str(page_num)
         print(url)
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
->>>>>>> 020cd0eae0696e00dfea12908e93e399bd277edf
 
         for laptop in soup.find_all('h4', class_='p-item-name'):
             laptop_link = laptop.find('a')['href']
