@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 
 # Send a GET request to the website
-url = 'https://www.ryanscomputers.com/category/laptop-all-laptop?limit=20&osp=0'
+url = 'https://www.ryanscomputers.com/category/laptop-all-laptop?limit=1000&osp=0'
 response = requests.get(url)
 
 # Parse the HTML content using BeautifulSoup
@@ -21,7 +21,7 @@ with open('dataset/ryans.csv', 'w', newline='') as myfile:
         laptop_html = laptop_response.text
         laptop_soup = BeautifulSoup(laptop_html, 'html.parser')
 
-        # Extract the laptop name, price, and specifications
+        # extracting the headings(specifications) of the laptops 
         heading = laptop_soup.find_all('span', class_='att-title context')
         info = []
 
@@ -31,7 +31,7 @@ with open('dataset/ryans.csv', 'w', newline='') as myfile:
         wr.writerow(info)
         break
 
-    # writing the properties of each laptop
+    # extracting the specification of all the laptops in the page, viewing the details
     for laptop in soup.find_all('p', class_='card-text p-0 m-0 list-view-text'):
         laptop_link = laptop.find('a')['href']
 
@@ -44,6 +44,7 @@ with open('dataset/ryans.csv', 'w', newline='') as myfile:
         info = []
 
         for data in detail:
+            print(data.text)
             info.append(data.text)
 
         wr.writerow(info)
