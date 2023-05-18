@@ -24,8 +24,7 @@ with open('dataset/startech.csv', 'w', encoding='utf8', newline='') as f:
         laptop_soup = BeautifulSoup(laptop_html, 'html.parser')
 
         heading = laptop_soup.find_all('td', class_='name')
-        info = []
-        info.append('Price')
+        info = ['Price', 'Brand']
 
         for head in heading:
             info.append(head.text)
@@ -61,13 +60,17 @@ with open('dataset/startech.csv', 'a', encoding='utf8', newline='') as f:
                         if i != ',' and i != '৳':
                             name = name + i
                          
-                    info.append(name)
+                info.append(name)
+
+                # scraping the brand name
+                brand = laptop_soup.find('h1', class_='product-name')
+                brand_name = brand.text.split()[0]
+                info.append(brand_name)
                 
                 heading = laptop_soup.find('div', class_='short-description')
                 body = heading.find('ul')
                 ans = body.find_all('li')
 
-                
                 for item in ans:
                     name = item.text
                     if "Model: " in name:

@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from csv import writer
 
 # Send a GET request to the website
-url = "https://www.globalbrand.com.bd/all-laptop?limit=500"
+url = "https://www.globalbrand.com.bd/all-laptop?limit=2"
 response = requests.get(url)
 
 # Parse the HTML content using BeautifulSoup
@@ -61,8 +61,10 @@ with open('dataset/globalbrand.csv', 'a', encoding='utf8', newline='') as f:
         for list in lists:
             num = list.find_all('td')
             print(num)
+            cnt = 0
             for i in num:
+                cnt += 1
+                print(i.text)
                 info.append(i.text)
-            
        
         thewriter.writerow(info)
