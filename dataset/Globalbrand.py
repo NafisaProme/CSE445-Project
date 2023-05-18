@@ -10,7 +10,7 @@ response = requests.get(url)
 soup = BeautifulSoup(response.content, "html.parser")
 laptop_links=[]
 
-with open('laptopm.csv', 'w', encoding='utf8', newline='') as f:
+with open('dataset/globalbrand.csv', 'w', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for laptop in soup.find_all('div', class_='name'):
         laptop_link = laptop.find('a')['href']
@@ -30,7 +30,7 @@ with open('laptopm.csv', 'w', encoding='utf8', newline='') as f:
         thewriter.writerow(info)
         break
 
-with open('laptopm.csv', 'a', encoding='utf8', newline='') as f:
+with open('dataset/globalbrand.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
 
 
