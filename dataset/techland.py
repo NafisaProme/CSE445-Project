@@ -4,7 +4,7 @@ from csv import writer
 
 # to get access to the website
 
-url = "https://www.techlandbd.com/shop-laptop-computer?limit=3&page=1"
+url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=100&page=1"
 # request to the website
 page = requests.get(url)
 
@@ -35,13 +35,12 @@ with open('dataset/techland.csv', 'w', encoding='utf8', newline='') as f:
 
 with open('dataset/techland.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
-    for page_num in range(1, 2):
+    for page_num in range(1, 14):
         # changing the urls of each page accordingly
-        url = url[:-1]
-        url = url + str(page_num)
+        url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=100&page=" + str(page_num)
         page = requests.get(url)
-        soup = BeautifulSoup(page.content, 'html.parser')
         print(url)
+        soup = BeautifulSoup(page.content, 'html.parser')
 
         for laptop in soup.find_all('div', class_='name'):
             laptop_link = laptop.find('a')['href']
@@ -63,22 +62,14 @@ with open('dataset/techland.csv', 'a', encoding='utf8', newline='') as f:
                     final_cost += i
 
             info.append(final_cost)
-            print(final_cost)
 
-            heading = laptop_soup.find('td', class_='attribute-value')
-            print(heading)
+            heading = laptop_soup.find('div', class_='table-responsive')
 
-            # for item in ans:
-            #     name = item.text
-            #     if "Model: " in name:
-            #         info.append(name[7:])
+            if heading != None:
+                lists = heading.find_all('tr')
+                for item in lists:
+                    take = item.find('td', class_='attribute-value')
+                    if take != None:
+                        info.append(take.text)
 
-            # lists = laptop_soup.find_all(
-            #     'div', class_='product-details content')
-
-            # for list in lists:
-            #     num = list.find_all('td', class_='value')
-            #     for i in num:
-            #         info.append(i.text)
-
-            # thewriter.writerow(info)
+            thewriter.writerow(info)

@@ -34,7 +34,6 @@ with open('dataset/globalbrand.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
 
 
-
     for laptop in soup.find_all('div', class_='name'):
         laptop_link = laptop.find('a')['href']
         laptop_links.append(laptop_link)
