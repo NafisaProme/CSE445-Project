@@ -4,7 +4,7 @@ from csv import writer
 
 # to get access to the website
 
-url = "https://www.startech.com.bd/laptop-notebook/laptop?limit=90&page=1"
+url = "https://www.startech.com.bd/laptop-notebook/laptop?limit=1&page=1"
 # request to the website
 page = requests.get(url)
 
@@ -12,8 +12,9 @@ page = requests.get(url)
 # create an object
 soup = BeautifulSoup(page.content, 'html.parser')
 laptop_links = []
+headings = ['Price', 'Brand']
 
-with open('dataset/startech.csv', 'w', encoding='utf8', newline='') as f:
+with open('dataset/Startech.csv', 'w', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for laptop in soup.find_all('h4', class_='p-item-name'):
         laptop_link = laptop.find('a')['href']
@@ -24,17 +25,17 @@ with open('dataset/startech.csv', 'w', encoding='utf8', newline='') as f:
         laptop_soup = BeautifulSoup(laptop_html, 'html.parser')
 
         heading = laptop_soup.find_all('td', class_='name')
-        info = ['Price', 'Brand']
+        
 
         for head in heading:
-            info.append(head.text)
+            headings.append(head.text)
 
-        thewriter.writerow(info)
+        thewriter.writerow(headings)
         break
 
 with open('dataset/startech.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
-    for page_num in range(1,9):
+    for page_num in range(1,2):
         url = url[:-1]
         url = url + str(page_num)
         page = requests.get(url)
@@ -75,13 +76,35 @@ with open('dataset/startech.csv', 'a', encoding='utf8', newline='') as f:
                     name = item.text
                     if "Model: " in name:
                         info.append(name[7:])
-            
+                heading = laptop_soup.find_all('td', class_='name')
                 lists = laptop_soup.find_all('div', class_='product-details content')
                         
-                for list in lists:
-                    num = list.find_all('td', class_='value')
-                    for i in num:
-                        info.append(i.text)
+                # for list in lists:
+                #     num = list.find_all('td', class_='value')
+                #     for i in num:
+                #         info.append(i.text)
+
+                
+                ind = 1
+                for data in range(len(lists)):
+                    # print(data)
+                    x = headings[ind]
+                    y = heading[data].text.strip()
+
+                    # checking whether the headings match, to decide whether to add the value or the NULL value 
+                    if x == y:
+                        info.append(lists[data].text.strip())
+                    else:
+                        ind += 1
+                        info.append("NULL")
+                        info.append(lists[data].text.strip())
+                    
+                    ind += 1
+                    if ind >= len(headings):
+                        break
+
+ 
+    
                     
                 
-                thewriter.writerow(info)
+        thewriter.writerow(info)
