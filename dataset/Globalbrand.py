@@ -64,6 +64,7 @@ with open('dataset/globalbrand.csv', 'a', encoding='utf8', newline='') as f:
             cnt = 0
             for i in num:
                 cnt += 1
+                print(cnt)
                 print(i.text)
                 info.append(i.text)
        
