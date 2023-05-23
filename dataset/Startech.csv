@@ -1,76 +1,380 @@
-Price,Brand,Processor Brand,Processor Model,Generation,Processor Frequency,Processor Core,Processor Thread,CPU Cache,Display Size,Display Resolution,Touch Screen,Display Features,RAM,RAM Type,Bus Speed,Total RAM Slot,Max RAM Capacity,Storage Type,Storage Capacity,Extra M.2 Slot,Graphics Model,Graphics Memory,Keyboard Type,TouchPad,WebCam,Speaker,Microphone,Optical Drive,Card Reader,HDMI Port,USB 3 Port,USB Type-C / Thunderbolt Port,LAN,WiFi,Bluetooth,Fingerprint Sensor,Security Locker Slot,Security Chip,Operating System,Battery Type,Battery Capacity,Adapter Type,Color,Dimensions,Weight,Other Features,Warranty Details
-29950,AVITA,Intel,Celeron N4020,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,14 Inch,NULL,IPS,NULL,FHD (1920 x 1080),NULL,No,NULL,4GB,NULL,LPDDR4,NULL,SATA M.2 SSD,NULL,256GB,NULL,N/A,NULL,Intel UHD Graphics 600,NULL,Shared,NULL,Island style non-backlit keyboard,NULL,Yes,NULL,2MP,NULL,0.8W x 2,NULL,Dual Microphones,NULL,N/A,NULL,Micro SD card,NULL,Full size HDMI x 1,NULL,USB 3.0 Type-A x 2
-32999,DOEL,AMD,A9-9425,NULL,3.10GHz up to 3.70GHz,2,2,1MB,14.1 inch,HD (1366x768),NULL,Matte LED-backlit display with 45% NTSC,4GB,DDR4,NULL,SATAIII M.2 2280 SSD,NULL,240GB,NULL,Yes,NULL,M.2 SSD 2280 Card with SATA interface,NULL,AMD Radeon R5 Graphics,NULL,Shared,NULL,Multi-language A4 size isolated keyboard with Bengali font (Bangladesh Layout),NULL,Built-in touchpad with Microsoft PTP multi-gesture and scrolling function,NULL,2.0M HD video camera,NULL,Built-in two speakers,NULL,Built-in array microphone,NULL,High Definition Audio,NULL,N/A,NULL,TF Card slot,NULL,1× Mini HDMI output port,NULL,1×USB 2.0 (Type-A),NULL,1×USB 3.0 port (Type-A)
-32010,Toshiba,Intel,Celeron 5205U,10th Gen,1.90 GHz,2,2,2 MB,14 Inch,"HD (1,366 x 768)",No,"16:9 LED Backlit, Non-reflective Anti-Glare",4GB,DDR4,3200MHz,2,Up to 16GB,M.2 SATA SSD,128GB,N/A,Intel UHD Graphics,Shared,Frameless black tile keyboard,ClickPad,HD,Stereo speakers,Dual Mic,N/A,1 × micro SD card slot,1 × HDMI-out (including 4K support),2 × USB 3.1,"1 × USB 3.1 Type-C Gen 1 port which supports Data transfer, Power Delivery and Display Port",Gigabit Ethernet LAN (10BASE-T/100BASE-TX/1000BASE-T),"802.11ac, agn (Dual Band) AC CM251",Bluetooth 5.0,N/A,Yes,Firmware Trusted Platform Module (fTPM),Windows 10 Pro,2 cell lithium-ion,45.6WHR,45W,Dark Blue,328 x 224.8 x 18.9 mm,1.55 kg,"Anti-bacterial paint coating, Japanese Industrial Standard Z 2801:2010 tested",2 Years
-33420,Toshiba,Intel,Celeron 5205U,10th Gen,1.90 GHz,2,2,2 MB,14 Inch,"HD (1,366 x 768)",No,"16:9 LED Backlit, Non-reflective Anti-Glare",4GB,DDR4,3200MHz,2,Up to 16GB,M.2 SATA SSD,256GB,N/A,Intel UHD Graphics,Shared,Frameless black tile keyboard,ClickPad,HD,Stereo speakers,Dual Mic,N/A,1 × micro SD card slot,1 × HDMI-out (including 4K support),2 × USB 3.1,"1 × USB 3.1 Type-C Gen 1 port which supports Data transfer, Power Delivery and Display Port",Gigabit Ethernet LAN (10BASE-T/100BASE-TX/1000BASE-T),"802.11ac, agn (Dual Band) AC CM251",Bluetooth 5.0,N/A,Yes,Firmware Trusted Platform Module (fTPM),Free Dos,2 cell lithium-ion,45.6WHR,45W,Dark Blue,328 x 224.8 x 18.9 mm,1.55 kg,"Anti-bacterial paint coating, Japanese Industrial Standard Z 2801:2010 tested",2 Years
-37950,Lenovo,Intel,Celeron Processor N4020,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,15.6 Inch,HD (1920×1080),No,TN 220nits Anti-glare,4GB,DDR4,NULL,No,NULL,1,NULL,HDD,NULL,1TB,NULL,5400rpm,NULL,Yes,NULL,"M.2 2242 SSD up to 512GB
-M.2 2280 SSD up to 512GB""",NULL,"2.5"""" HDD up to 1TB",NULL,Integrated Intel UHD Graphics 600,NULL,Shared,NULL,"Non-backlit, English (EU)",NULL,Yes,NULL,720p Webcam,NULL,1.5W x2 Stereo,NULL,2x Array,NULL,Dolby Audio,NULL,N/A
-37950,Lenovo,Intel,Celeron Processor N4020,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,15.6 Inch,HD (1920×1080),No,TN 220nits Anti-glare,4GB,DDR4,NULL,No,NULL,1,NULL,M.2 2242 PCIe 3.0x4 NVMe SSD,NULL,256GB SSD,NULL,Yes,NULL,"M.2 2242 SSD up to 512GB
-M.2 2280 SSD up to 512GB""",NULL,"2.5"""" HDD up to 1TB",NULL,Integrated Intel UHD Graphics 600,NULL,Shared,NULL,"Non-backlit, English (EU)",NULL,Yes,NULL,720p Webcam,NULL,1.5W x2 Stereo,NULL,2x Array,NULL,Dolby Audio,NULL,N/A,NULL,1x Card reader
-38630,Lenovo,Intel,Celeron N4020,NULL,1.10 GHz up to 2.80 GHz,2,2,4 MB,10.1 Inch,NULL,HD IPS LED Display,NULL,1280x800 (WxH) WXGA,NULL,Yes,NULL,"Antiscratch Brightness: 300nits, Aspect Ratio: 16:10, Color Gamut: 50% NTSC Display",NULL,4GB,NULL,DDR4,NULL,No,NULL,2133MHz,NULL,1,NULL,4GB,NULL,eMMC 5.1 SSD,NULL,128GB,NULL,N/A,NULL,Installed SSD Can Not Be Replaced,NULL,Intel UHD 600 Graphics,NULL,Shared,NULL,Standard Keyboard,NULL,Yes,NULL,Yes
-38500,Lenovo,Intel,Celeron Processor N4020,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,15.6 Inch,FHD (1920×1080),No,TN 220nits Anti-glare,4GB,DDR4,NULL,No,NULL,1,NULL,M.2 2242 PCIe 3.0x4 NVMe SSD,NULL,256GB SSD,NULL,Yes,NULL,"M.2 2242 SSD up to 512GB
-M.2 2280 SSD up to 512GB""",NULL,"2.5"""" HDD up to 1TB",NULL,Integrated Intel UHD Graphics 600,NULL,Shared,NULL,"Non-backlit, English (EU)",NULL,Yes,NULL,720p Webcam,NULL,1.5W x2 Stereo,NULL,2x Array,NULL,Dolby Audio,NULL,N/A,NULL,1x Card reader
-43400,Asus,Intel,Celeron Processor N4020,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,15.6 inch,HD (1366 x 768),No,"Brightness: 200nits, Aspect Ratio: 16:9, Color gamut: 45% NTSC, LED Backlit",4GB,DDR4,NULL,1,NULL,HDD,1TB,NULL,5400RPM,NULL,Yes,NULL,M.2 NVMe,NULL,"Additional SSD Can be added, and HDD can be replaced",NULL,Intel UHD Graphics 600,NULL,Shared,NULL,Backlit Chiclet Keyboard with Num-key,NULL,Yes,NULL,VGA Webcam,NULL,SonicMaster Built-in speaker,NULL,Built-in microphone,NULL,N/A,NULL,1x HDMI 1.4,NULL,2 x USB 2.0 Type-A
-44270,Asus,Intel,Celeron N4500 Processor,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,15.6-inch,HD (1366 x 768),No,Aspect ratio 16:9,4GB,DDR4,NULL,"2.5"" HDD",NULL,1TB,NULL,5400RPM,NULL,Yes,NULL,M.2 NVMe,NULL,Intel UHD Graphics,NULL,Shared,NULL,Chiclet Keyboard,NULL,Yes,NULL,VGA Webcam,NULL,"SonicMaster
-Built-in speaker",NULL,Built-in microphone,NULL,N/A,NULL,1x HDMI 1.4,NULL,2 x USB 2.0 Type-A,NULL,1 x USB 3.2 Gen 1 Type-A,NULL,1 x USB 3.2 Gen 1 Type-C
-42900,Asus,Intel,Celeron N4500 Processor,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,15.6-inch,HD (1366 x 768),No,Aspect ratio 16:9,4GB,DDR4,NULL,"2.5"" HDD",NULL,1TB,NULL,5400RPM,NULL,Yes,NULL,M.2 NVMe,NULL,Intel UHD Graphics 600,NULL,Shared,NULL,Chiclet Keyboard,NULL,Yes,NULL,VGA Webcam,NULL,"SonicMaster
-Built-in speaker",NULL,Built-in microphone,NULL,N/A,NULL,1x HDMI 1.4,NULL,"2 x USB 2.0 Type-A
-1 x USB 3.2 Gen 1 Type-A",NULL,1 x USB 3.2 Gen 1 Type-C,NULL,1x 3.5mm Combo Audio Jack
-45650,Asus,Intel,Celeron N4500 Processor,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,15.6 Inch,HD (1366 x 768),No,Aspect ratio 16:9,4GB,DDR4,NULL,Yes,NULL,1,NULL,8GB,NULL,"SATA  2.5"" HDD",NULL,1TB,NULL,5400RPM,NULL,Yes,NULL,M.2 NVMe,NULL,"Additional SSD Can be added, and HDD can be replaced",NULL,Intel UHD Graphics 600,NULL,Shared,NULL,Chiclet Keyboard,NULL,Yes,NULL,VGA Webcam,NULL,"SonicMaster
-Built-in speaker",NULL,Built-in microphone,NULL,N/A
-46550,Toshiba,Intel,Core i3 10110U,10th Gen,2.1Ghz up to 4.1Ghz,2,4,4MB,14 Inch,"HD (1,366 x 768)",No,"16:9 LED Backlit, Non-reflective Anti-Glare",8GB,DDR4,3200MHz,2,Up to 16GB,M.2 SATA SSD,256GB,N/A,Intel UHD Graphics,Shared,Frameless black tile keyboard,ClickPad,HD,Stereo speakers,Dual Mic,N/A,1 × micro SD card slot,1 × HDMI-out (including 4K support),2 × USB 3.1,"1 × USB 3.1 Type-C Gen 1 port which supports Data transfer, Power Delivery and Display Port",Gigabit Ethernet LAN (10BASE-T/100BASE-TX/1000BASE-T),"802.11ac, agn (Dual Band) AC CM251",Bluetooth 5.0,N/A,Yes,Firmware Trusted Platform Module (fTPM),Free Dos,2 cell lithium-ion,45.6WHR,45W,Dark Blue,328 x 224.8 x 18.9 mm,1.55 kg,"Anti-bacterial paint coating, Japanese Industrial Standard Z 2801:2010 tested",2 Years
-48280,Asus,Intel,Celeron Dual Core N4020,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,15.6-inch,FHD (1920 x 1080),No,"16:9,Anti-glare display, LED Backlit,200nits,NTSC: 45%,Screen-to-body ratio: 84 ％",4GB (Onboard),DDR4,NULL,PCIe G3 SSD,NULL,512GB,NULL,N/A,NULL,PCIe G3,NULL,Intel UHD Graphics 600,NULL,Shared,NULL,Backlit keyboard,NULL,Yes,NULL,VGA Camera,NULL,Yes,NULL,Yes,NULL,N/A,NULL,1 x Micro SD card reader,NULL,N/A,NULL,1x HDMI 1.4,NULL,"1x USB 2.0 Type-A
-2x USB 2.0 Type-A",NULL,1x USB 3.2 Gen 1 Type-A
-47740,Asus,Intel,Celeron Processor N4020,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,14,NULL,LED,NULL,HD (1366X768),NULL,No,NULL,4GB(onboard),NULL,DDR4,NULL,No,NULL,2666MHz,NULL,1,NULL,PCIEG3 SSD,NULL,256GB,NULL,N/A,NULL,Installed SSD can be upgradeable,NULL,Integrated Intel UHD,NULL,Shared,NULL,Illuminated Keyboard,NULL,Numpad,NULL,Yes,NULL,VGA,NULL,Yes
-49910,HP,Intel,Celeron N4500,NULL,1.10 GHz up to 2.80 GHz,2,2,4MB,NULL,Intel Integrated SoC,NULL,15.6 Inch,NULL,FHD (1920 x 1080),NULL,"Micro-edge 
-Anti-glare
-250 nits 
-45% NTSC",NULL,4GB  (1 x 4 GB),NULL,DDR4,NULL,PCIe NVMe M.2 SSD,NULL,256GB,NULL,N/A,NULL,Intel UHD Graphics,NULL,Shared,NULL,Standard,NULL,Yes,NULL,HP True Vision 720p HD,NULL,Dual speakers,NULL,Integrated dual array digital microphones,NULL,N/A,NULL,1x multi-format SD media card reader,NULL,1x HDMI 1.4b,NULL,2x SuperSpeed USB 3.2 Gen 1×1 Type-A 5Gbps signaling rate
-49830,Asus,Intel,Core i3-10110U,10th Gen,2.10 GHz up to 4.10 GHz,2,4,4 MB,15.6-inch,FHD (1920 x 1080),No,"16:9, LED Backlit, 200nits, NTSC: 45%, Anti-glare display, Screen-to-body ratio: 83 %",4GB (Onboard),DDR4,NULL,No,NULL,3200MHz,NULL,2,NULL,12GB,NULL,SATA HDD,NULL,1TB,NULL,5400 RPM,NULL,Yes,NULL,NVMe PCIe,NULL,"Additional SSD Can be added, and HDD can be replaced",NULL,Intel UHD Graphics,NULL,Shared,NULL,"Standard Keyboard with Num-key
-1.4mm Key-travel",NULL,Yes,NULL,VGA camera,NULL,Built-in speaker,NULL,Built-in microphone
-48830,Acer,Intel,Core i3-1115G4 Processor,11th Gen,3.00 GHz up to 4.10 GHz,2,4,6MB,15.6 Inch,Full HD 1920 x 1080,No,High-brightness Acer ComfyView LED-backlit TFT LCD,4GB,DDR4,NULL,2,Up to 12GB,2.5 inch HDD,1TB,NULL,5400RPM,NULL,Yes,NULL,M.2 SATA / M.2 NVMe,NULL,Intel UHD Graphics,NULL,Shared,NULL,Standard numeric keypad,NULL,"100-/101-/104- key FineTip keyboard with independent standard numeric keypad, international language support, power button",NULL,Yes,NULL,"Front Camera/Webcam Resolution: 0.3 Megapixel, Front Camera/Webcam
-Acer webcam with 640 x 480 resolution",NULL,2 x Stereo Speaker,NULL,Yes,NULL,N/A,NULL,N/A,NULL,1 X HDMI
-50240,Asus,Intel,Core i3 10110U,10th Gen,2.1Ghz up to 4.1Ghz,2,4,4 MB,14.0 Inch,NULL,IPS-LEVEL,NULL,FHD (1920X 1080),NULL,No,NULL,"LED BACKLIT DISPLAY 16:9, ANTI-GRARE DISPLAY, 250 NITS, 45% NTSC, 84% SCREEN-TO-BODY RATIO",NULL,4GB (On Board),NULL,DDR4,NULL,No,NULL,2666 MHz,NULL,2,NULL,12GB,NULL,SATA HDD,NULL,1TB,NULL,5400 RPM,NULL,Yes,NULL,"Additional SSD Can be added, and HDD can be replaced",NULL,Intel UHD Graphics,NULL,Shared,NULL,Illuminated Chiclet Keyboard,NULL,"1.4mm Key-travel
-Support NumberPad"
-49410,Asus,Intel,Core i3 10110U,10th Gen,2.1Ghz up to 4.1Ghz,2,4,4 MB,14.0 Inch,FHD (1920X 1080),No,"LED BACKLIT DISPLAY 16:9, ANTI-GRARE DISPLAY, 250 NITS, 45% NTSC, 84% SCREEN-TO-BODY RATIO",4GB (On Board),DDR4,NULL,No,NULL,2666 MHz,NULL,2,NULL,12GB,NULL,NVMe PCIe,NULL,256GB SSD,NULL,Intel UHD Graphics,NULL,Shared,NULL,Illuminated Chiclet Keyboard,NULL,"1.4mm Key-travel
-Support NumberPad",NULL,Yes,NULL,VGA camera,NULL,Built-in speaker,NULL,Built-in microphone,NULL,SonicMaster with Cortana support,NULL,N/A,NULL,N/A
-49950,ASUS,Intel,Core i3-1005G1,10th Gen,1.20 GHz up to 3.40 GHz,2,4,4MB,15.6 Inch,FHD (1920x1080),NULL,"16:9, Anti-glare display, LED Backlit, 200nits, NTSC: 45%, Screen-to-body ratio: 83 %",4GB (Onboard),DDR4,NULL,No,NULL,1,NULL,12GB,NULL,HDD,NULL,1TB,NULL,5400RPM,NULL,Yes,NULL,M.2 NVME,NULL,Additional SSD Can be added,NULL,Intel UHD Graphics,NULL,Shared,NULL,Chiclet Keyboard with Num-key,NULL,1.4mm Key-travel,NULL,Yes,NULL,VGA camera,NULL,Yes,NULL,Yes
-49910,Asus,Intel,Celeron Dual Core N4020,NULL,"1.10 GHz up to 2.80 GHz, Cache 4MB",2,2,4MB,15.6-inch,FHD (1920 x 1080),No,"16:9,Anti-glare display,LED Backlit,200nits,NTSC: 45%,Screen-to-body ratio: 84％",4GB (Onboard),DDR4,NULL,No,NULL,1,NULL,4GB,NULL,PCIe G3 SSD,NULL,512GB,NULL,N/A,NULL,PCIe G3,NULL,Installed SSD can be upgradeable,NULL,Intel UHD Graphics 600,NULL,Shared,NULL,Illuminated chiclet keyboard,NULL,Yes,NULL,VGA Camera,NULL,Yes,NULL,Yes,NULL,N/A,NULL,1x HDMI 1.4
-50280,Asus,Intel,Core i3-10110U,10th Gen,2.10 GHz up to 4.10 GHz,2,4,4MB,15.6-inch,HD (1366 x 768),No,"16:9 aspect ratio, LED Backlit, 200nits, NTSC: 45%, Anti-glare display, Screen-to-body ratio: 83 %",4GB (Onboard),DDR4,NULL,No,NULL,3200MHz,NULL,2,NULL,SATA  HDD,NULL,1TB,NULL,Yes,NULL,M.2 2280 PCIe 3.0x4,NULL,Intel UHD Graphics,NULL,Shared,NULL,Chiclet Keyboard,NULL,Yes,NULL,720p HD camera,NULL,Built-in speaker,NULL,Built-in microphone,NULL,SonicMaster with Cortana support,NULL,N/A,NULL,1 x MicroSD card reader
-48830,Acer,AMD,Ryzen 3 3250U,NULL,2.6 GHz up to 3.5 GHz,2,4,NULL,"L1 Cache: 192KB
-L2 Cache: 1MB
-L3 Cache: 4MB",NULL,15.6,NULL,FHD (1920x1080),NULL,LED,NULL,"Aspect Ratio: 16:9, ComfyView Display",NULL,8GB,NULL,DDR4,NULL,Yes,NULL,2666mhz,NULL,2,NULL,Up to 12GB,NULL,PCIe G3 SSD,NULL,256GB,NULL,Yes,NULL,PCIe Gen3 x2 M.2 SSD,NULL,"Yes
-HDD Expansion Slot",NULL,AMD Radeon,NULL,Shared,NULL,Yes,NULL,Yes
-49910,Lenovo,Intel,Core i3-1005G1,10th Gen,1.20 GHz up to 3.40 GHz,2,4,4MB,15.6 Inch,FHD (1920x1080),No,TN 220nits Anti-glare Display,4GB,DDR4,NULL,No,NULL,2666Mhz,NULL,1,NULL,Upgradeable up to 12 GB,NULL,M.2 2242 PCIe 3.0x2 NVMe SSD,NULL,256GB,NULL,5400 RPM,NULL,No,NULL,M.2,NULL,"Additional HDD Can be added, and SSD can be replaced",NULL,Intel UHD Graphics,NULL,Shared,NULL,Full-size English (US),NULL,Yes,NULL,720p,NULL,Yes,NULL,Yes
-49500,Asus,Intel,Celeron N4500 Processor,NULL,1.10 GHz up to 2.80 GHz,2,2,4,"11.6""",NULL,HD LED Touch Display,NULL,Up to HD,NULL,Yes,NULL,"16:9, Wide view, Glossy display, LED Backlit, 250nits, NTSC: 50%, Screen-to-body ratio:63 ％",NULL,4GB,NULL,DDR4,NULL,NVMe PCIe,NULL,256GB,NULL,Intel UHD Graphics,NULL,Shared,NULL,Integrated,NULL,1.35mm key travel chiclet keyboard,NULL,720p HD camera,NULL,Yes,NULL,Yes,NULL,SonicMaster,NULL,N/A,NULL,Micro SD card reader + SIM card slot,NULL,1
-51580,ASUS,Intel,Core i3-1005G1,10th Gen,1.20 GHz up to 3.40 GHz,2,4,4MB,15.6 Inch,FHD (1920x1080),NULL,"16:9, Anti-glare display, LED Backlit, 200nits, NTSC: 45%, Screen-to-body ratio: 83 %",8GB,DDR4,NULL,HDD,NULL,1TB,NULL,5400RPM,NULL,Yes,NULL,M.2 NVME,NULL,Intel UHD Graphics,NULL,Shared,NULL,Chiclet Keyboard with Num-key,NULL,1.4mm Key-travel,NULL,Yes,NULL,VGA camera,NULL,Yes,NULL,Yes,NULL,"SonicMaster
-Audio by ICEpower
-Built-in speaker
-Built-in microphone
-with Cortana support",NULL,Micro SD card reader,NULL,1x HDMI 1.4,NULL,2x USB 2.0 Type-A
-54449,DOEL,Intel,Core i3 10110U,10th Gen,2.1Ghz up to 4.1Ghz,2,4,4MB,14 Inch,FHD (1920x1080),N/A,"Matte LED Backlit Display with 45% NTSC 180° Hinge, A&D Cover Metal",4GB,DDR4,NULL,Yes,NULL,2666NIHz,NULL,2,NULL,32GB,NULL,M.2 2280 SSD,NULL,512GB,NULL,N/A,NULL,Intel UHD Graphics,NULL,Shared,NULL,Standard Keyboard,NULL,Multi-language A4 size isolated keyboard (Bijoy Bangla Layout),NULL,Built-in Click pad with Microsoft PTP multi-gesture and scrolling,NULL,1.0M HD video camera,NULL,2×2w Speakers,NULL,Built-in array microphone,NULL,N/A,NULL,N/A
-50450,Walton,Intel,Core i3 10110U,10th Gen,2.1Ghz up to 4.1Ghz,2,4,4MB,15.6 inch,FHD (1920 x 1080),No,Anti-glare LED-backlit display,8GB,DDR4,NULL,Yes,NULL,2666MHz,NULL,2,NULL,Up to 32GB,NULL,SATAIII M.2 2280 SSD,NULL,512GB,NULL,Yes,NULL,SATAIII/ PCIe Gen3x4 M.2 2280,NULL,"Extra HDD Slot, Up to 1TB",NULL,Intel UHD Graphics,NULL,Shared,NULL,A4 size isolated keyboard,NULL,Multi-languages with Bengali font,NULL,Touchpad with Microsoft PTP multi-gesture and scrolling function,NULL,1.0M HD,NULL,2 x 2 W,NULL,Built-in array mic
-51860,Dell,Intel,Core i3-1115G4,11th Gen,3.0 GHz up to 4.10 GHz,2,4,6 MB,14 inch,HD (1366 x 768),No,NULL,60 Hz,NULL,"Anti-glare, NTSC 45%, 220 Nits, LED Backlight Narrow Border Display",NULL,4 GB,NULL,DDR4,NULL,Yes,NULL,2666MHz,NULL,2,NULL,16GB,NULL,SATA Hard Drive,NULL,1TB,NULL,5400RPM,NULL,Yes,NULL,NVMe PCIe,NULL,Intel UHD Graphics,NULL,Shared,NULL,Backlit Keyboard,NULL,Yes,NULL,1280x720 Intergrated HD Webcam
-54470,ASUS,AMD,Ryzen 3 3250U,NULL,2.6 Ghz up to 3.5 Ghz,2,4,5MB,14 Inch,HD (1366 x 768),No,NULL,60Hz,NULL,4GB (On board),NULL,DDR4,NULL,1TB HDD,NULL,5400RPM,NULL,Yes,NULL,PCIe Gen3 x2 M.2 SSD,NULL,AMD Radeon VEGA3 Graphics,NULL,Shared,NULL,Chiclet keyboard,NULL,Yes,NULL,VGA Camera,NULL,Built-in Stereo Speakers,NULL,Yes,NULL,ASUS SonicMaster Audio,NULL,N/A,NULL,1 x SD card reader,NULL,N/A
-52950,Acer,Intel,Core i3-1115G4,11th Gen,3.00 GHz up to 4.10 GHz,2,4,6MB,15.6 Inch,NULL,LED,NULL,Full HD (1920 x 1080),NULL,No,NULL,"Aspect Ratio: 16:9, Display Screen Technology: ComfyView, 45% NTSC color gamut",NULL,8GB,NULL,DDR4,NULL,2,NULL,PCIe G3 SSD,NULL,256GB SSD,NULL,Yes,NULL,PCIe Gen3 x2 M.2 SSD,NULL,intel UHD Graphics,NULL,Shared,NULL,Standard Keyboard,NULL,Yes,NULL,HD,NULL,2x Stereo,NULL,2Mic,NULL,N/A
-55340,HP,AMD,AMD Ryzen 3050U,NULL,2.3 GHz up to 3.2GHz,2,2,4,NULL,AMD Radeon,NULL,"15.6""",NULL,FHD (1920 x 1080),NULL,60Hz,NULL,"Micro-edge, 
-Anti-glare 
-250 nits 
-45% NTSC Display",NULL,8 GB,NULL,DDR4,NULL,Yes,NULL,2,NULL,PCIe NVMe SSD,NULL,256 GB,NULL,N/A,NULL,PCIe NVMe SSD,NULL,AMD Radeon Graphics,NULL,Shared,NULL,Integrated,NULL,Full-size keyboard with numeric keypad,NULL,HP True Vision 720p HD camera,NULL,Dual speakers,NULL,Integrated dual array digital microphones
-55380,ASUS,Intel,Core i3-1115G4,11th Gen,3.00 GHz up to 4.10 GHz,2,4,6MB,15.6-inch,NULL,IPS,NULL,FHD (1920 x 1080),NULL,No,NULL,WV Display,NULL,4GB (Onboard),NULL,DDR4,NULL,No,NULL,3200MHz,NULL,2,NULL,12GB,NULL,SATA HDD,NULL,1TB,NULL,Yes,NULL,1x M.2 2280 PCIe 3.0x4,NULL,"Additional SSD Can be added, and HDD can be replaced",NULL,Intel UHD Graphics,NULL,Shared,NULL,Chiclet Keyboard,NULL,Num-key 1.4mm Key-travel
-56200,ASUS,AMD,Ryzen 3 3250U,2.6 Ghz up to 3.5 Ghz,2,4,NULL,5MB,"15.6""",HD (1366 x 768),NULL,60Hz,NULL,"200nits, 45% NTSC color gamut for non-OLED, Screen-to-body ratio: 83 %",NULL,4GB (On board),NULL,DDR4,NULL,SATA III,NULL,1TB HDD,NULL,5400 RPM,NULL,AMD Radeon Graphics,NULL,Shared,NULL,Integrated,NULL,Illuminated Chiclet Keyboard,NULL,VGA Camera,NULL,Yes,NULL,Yes,NULL,ASUS SonicMaster Audio,NULL,Yes,NULL,1 x HDMI,NULL,2 x USB 2.0 Type-A,NULL,1 x USB 3.2 Gen 1 Type-A
-55380,ASUS,Intel,Core i3-1115G4,11th Gen,3.00 GHz up to 4.10 GHz,2,4,6MB,15.6-inch,NULL,IPS,NULL,FHD (1920 x 1080),NULL,No,NULL,WV Display,NULL,4GB (Onboard),NULL,DDR4,NULL,No,NULL,3200MHz,NULL,2,NULL,HDD,NULL,1TB,NULL,Yes,NULL,1x M.2 2280 PCIe 3.0x4,NULL,Intel UHD Graphics,NULL,Shared,NULL,Chiclet Keyboard,NULL,Num-key 1.4mm Key-travel,NULL,Yes,NULL,VGA camera
-56420,Dell,Intel,Core i3-1115G4,11th Gen,3.00 GHz up to 4.10 GHz,2,4,6MB,15.6 Inch,NULL,LED,NULL,HD (1366x768),NULL,No,NULL,4GB,NULL,DDR4,NULL,3200MHz,NULL,2,NULL,16GB,NULL,SATA HDD,NULL,1TB,NULL,Yes,NULL,"Additional SSD Can be added, HDD can be replaced",NULL,Intel UHD Graphics,NULL,Shared,NULL,Standard keyboard,NULL,Yes,NULL,720p at 30 fps HD,NULL,Yes,NULL,Yes
-54450,ASUS,Intel,Core i3-1005G1,10th Gen,1.20 GHz up to 3.40 GHz,2,4,4MB,15.6 Inch,FHD (1920x1080),NULL,"16:9, Anti-glare display, LED Backlit, 200nits, NTSC: 45%, Screen-to-body ratio: 83 %",4GB (Onboard),DDR4,NULL,No,NULL,2,NULL,NVMe PCIe,NULL,512GB,NULL,Yes,NULL,M.2 NVME,NULL,Intel UHD Graphics,NULL,Shared,NULL,Chiclet Keyboard with Num-key,NULL,1.4mm Key-travel,NULL,Yes,NULL,VGA camera,NULL,Yes,NULL,Yes,NULL,"SonicMaster
-Audio by ICEpower
-Built-in speaker
-Built-in microphone
-with Cortana support",NULL,Micro SD card reader,NULL,1x HDMI 1.4
-56640,Lenovo,Intel,Core i3-1115G4,11th Gen,3.0 GHz up to 4.1 GHz,2,4,6MB,15.6 Inch,FHD (1920×1080),No,TN 250nits Anti-glare,4GB,DDR4,NULL,No,NULL,3200MHz,NULL,1,NULL,up to 12GB,NULL,M.2 2242 PCIe 3.0x4 NVMe SSD,NULL,256GB,NULL,Yes,NULL,"M.2 2242 SSD up to 512GB
-M.2 2280 SSD up to 1TB",NULL,Installed SSD can be upgradeable,NULL,Integrated Intel UHD Graphics,NULL,Shared,NULL,"Backlit, English (EU)",NULL,Yes,NULL,720p Webcam,NULL,1.5W x2 Stereo,NULL,2x Array,NULL,Dolby Audio
-56750,Lenovo,AMD,Ryzen 3 3250U,NULL,2.60 GHz – 3.5 GHz,2,4,4MB,"15.6""",NULL,TN,NULL,FHD (1920 x 1080),NULL,N/A,NULL,220nits Anti-glare; 170° Viewing Angle,NULL,8GB (4GB Onboard + 4GB),NULL,DDR4,NULL,No,NULL,2400MHz,NULL,2,NULL,12GB,NULL,NVMe PCIe SSD,NULL,512GB,NULL,N/A,NULL,PCIe NVMe M.2,NULL,Installed SSD can be upgradeable,NULL,AMD Radeon Graphics,NULL,Shared,NULL,Standard,NULL,Yes
-55000,Walton,Intel,Core i5-8250U,8th Gen,1.60GHz up to 3.40 GHz,4,8,6MB,15.6 inch,HD(1366x768),No,"16:9 panel, 3.2mm Display",8GB,DDR4,NULL,Yes,NULL,2,NULL,Up to 32GB,NULL,HDD,NULL,1TB,NULL,5400rpm,NULL,N/A,NULL,Intel UHD Graphics,NULL,Shared,NULL,A4 size isolated keyboard,NULL,Multi languages with Bengali font (Bangladesh Layout),NULL,Touchpad with Microsoft PTP multi-gesture and scrolling function,NULL,1.0M HD,NULL,Built-in two speakers,NULL,Built-in,NULL,High Definition Audio,NULL,"One changeable 9.0 / 9.5 mm(H) DVD Writer ODD, SATA interface"
-54790,Acer,Intel,Core i3-1115G4,11th Gen,3.00 GHz up to 4.10 GHz,2,4,6MB,15.6 Inch,NULL,LED,NULL,Full HD (1920 x 1080),NULL,No,NULL,"Aspect Ratio: 16:9, Display Screen Technology: ComfyView, 45% NTSC color gamut",NULL,8GB,NULL,DDR4,NULL,2,NULL,PCIe G3 SSD,NULL,512GB SSD,NULL,N/A,NULL,PCIe Gen3 x2 M.2 SSD,NULL,intel UHD Graphics,NULL,Shared,NULL,Standard Keyboard,NULL,Yes,NULL,HD,NULL,2x Stereo,NULL,2Mic,NULL,N/A
-57200,Lenovo,Intel,Core i3,11th,3.00 GHz up to 4.10 GHz,2,4,6MB,NULL,Intel SoC Platform,NULL,"15.6""",NULL,LED,NULL,FHD (1920x1080),NULL,"TN Panel, 250nits",NULL,4GB,NULL,DDR4,NULL,3200 MHz,NULL,1,NULL,SATA,NULL,1TB HDD,NULL,5400RPM,NULL,1,NULL,Additional SSD Can be added,NULL,Intel UHD Graphics,NULL,Shared,NULL,Standard Backlight keyboard,NULL,HD Camera,NULL,Yes,NULL,Yes
-54450,Dell,Intel,Core i3-1115G4,11th Gen,3.0 GHz up to 4.10 GHz,2,4,6 MB,14 inch,HD (1366 x 768),No,NULL,60 Hz,NULL,"Anti-glare, NTSC 45%, 220 Nits, LED Backlight Narrow Border Display",NULL,4 GB,NULL,DDR4,NULL,Yes,NULL,2666MHz,NULL,2,NULL,16GB,NULL,SATA Hard Drive + PCIe NVMe,NULL,1TB + 256GB SSD,NULL,5400RPM,NULL,Yes,NULL,NVMe PCIe,NULL,Intel UHD Graphics,NULL,Shared,NULL,Backlit Keyboard,NULL,Yes,NULL,1280x720 Intergrated HD Webcam
-59460,ASUS,AMD,Ryzen 3 3250U,NULL,2.6 Ghz up to 3.5 Ghz,2,4,4MB,15.6 Inch,FHD (1920x1080),No,NULL,60Hz,NULL,(16:9) LED-backlit FHD,NULL,4GB (On Board),NULL,DDR4,NULL,No,NULL,2400 MHz,NULL,2,NULL,12GB,NULL,PCIE G3 SSD,NULL,512GB,NULL,Yes,NULL,PCIe Gen3 x2 M.2 SSD,NULL,"Additional HDD Can be added, and SSD can be replaced",NULL,AMD Radeon VEGA3 Graphics,NULL,Shared,NULL,Illuminated Chiclet keyboard,NULL,Yes,NULL,VGA Camera
+Price,Brand,Processor Brand,Processor Model,Processor Frequency,Processor Core,Processor Thread,CPU Cache,Display Size,Display Type,Display Resolution,Touch Screen,RAM,RAM Type,Storage Type,Storage Capacity,Extra M.2 Slot,Graphics Model,Graphics Memory,Keyboard Type,TouchPad,WebCam,Speaker,Microphone,Optical Drive,Card Reader,HDMI Port,USB 3 Port,Headphone & Microphone Port,LAN,WiFi,Bluetooth,Fingerprint Sensor,Operating System,Battery Capacity,Adapter Type,Color,Dimensions,Weight,Warranty Details
+29950,AVITA,AVITA Essential 14,NULL,"Share:
+
+
+
+
+bookmark_border Save
+library_add Add to Compare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Matt White Color
+
+
+Price
+29,000৳
+
+
+Regular Price
+29,950৳
+ 
+Status
+In Stock
+
+
+Product Code
+18985
+
+
+Brand
+AVITA
+
+
+
+
+
+
+
+
+Key Features
+MPN: NE14A2BDC44A-MWBModel: AVITA Essential 14Processor: Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)
+RAM: 4GB LPDDR4, Storage: 256GB SATA SSD
+Display: 14"" FHD (1920 x 1080) IPS
+Features: 2M WebCam, 0.8W x 2 SpeakerView More Info
+
+
+
+stars
+220
+Star Points
+
+
+Payment Options
+
+
+
+29,000৳
+Cash Discount Price Online / Cash Payment
+
+
+
+2,496৳/month
+Regular Price: 29,950৳
+0% EMI for up to 12 Months***
+
+
+
+
+remove
+
+add
+
+
+Buy Now
+
+
+
+
+
+
+
+
+
+
+
+SpecificationDescriptionQuestions (0)Reviews (0)
+
+
+
+
+Specification
+
+
+
+
+
+
+
+
+Processor
+
+
+
+
+Processor BrandIntel
+
+Processor ModelCeleron N4020
+
+Processor Frequency1.10 GHz up to 2.80 GHz
+
+Processor Core2
+
+Processor Thread2
+
+CPU Cache4MB
+ 
+
+
+Display
+
+
+
+
+Display Size14 Inch
+
+Display TypeIPS
+
+Display ResolutionFHD (1920 x 1080)
+
+Touch ScreenNo
+ 
+
+
+Memory
+
+
+
+
+RAM4GB
+
+RAM TypeLPDDR4
+ 
+
+
+Storage
+
+
+
+
+Storage TypeSATA M.2 SSD
+
+Storage Capacity256GB
+
+Extra M.2 SlotN/A
+ 
+
+
+Graphics
+
+
+
+
+Graphics ModelIntel UHD Graphics 600
+
+Graphics MemoryShared
+ 
+
+
+Keyboard & TouchPad
+
+
+
+
+Keyboard TypeIsland style non-backlit keyboard
+
+TouchPadYes
+ 
+
+
+Camera & Audio
+
+
+
+
+WebCam2MP
+
+Speaker0.8W x 2
+
+MicrophoneDual Microphones
+ 
+
+
+Ports & Slots
+
+
+
+
+Optical DriveN/A
+
+Card ReaderMicro SD card
+
+HDMI PortFull size HDMI x 1
+
+USB 3 PortUSB 3.0 Type-A x 2
+
+Headphone & Microphone PortHeadphone Jack
+ 
+
+
+Network & Connectivity
+
+
+
+
+LANN/A
+
+WiFiYes
+
+BluetoothYes
+ 
+
+
+Security
+
+
+
+
+Fingerprint SensorN/A
+ 
+
+
+Software
+
+
+
+
+Operating SystemWindows 10 Home
+ 
+
+
+Power
+
+
+
+
+Battery Capacity7.6V 4830mAh
+
+Adapter TypeAC Adapter and Power cord
+ 
+
+
+Physical Specification
+
+
+
+
+ColorMatt White
+
+Dimensions321(W) x 225(H) x 20(D) mm
+
+WeightStarting from 1.377kg
+ 
+
+
+Warranty
+
+
+
+
+Warranty Details2 Years
+ 
+
+
+
+Description
+
+AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Matt White ColorAVITA Essential 14 Celeron N4020 14"" Full HD Laptop come with Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz), 4GB LPDDR4 RAM, 256GB SATA M.2 SSD, Intel UHD Graphics 600 with Windows 10 Home in S mode. This laptop is featured with Battery: 7.6V 4830mAh, Island style non-backlit keyboard, 2M WebCam, Micro SD card, 14"" FHD (1920 x 1080) IPS Display, 0.8W x 2 Speaker, Dual Microphones. Here, Network & Wireless Connectivity are also available. In this laptop it is also has USB 3.0 Type-A x 2, Full size HDMI x 1, Headphone Jack Ports, Connectors & Slots are also availble. This latest AVITA Essential 14 Celeron N4020 14"" Full HD Laptop has 2 Years of Warranty.
+
+
+
+
+Questions (0)
+Have question about this product? Get specific details about this product from expert.
+
+
+Ask Question
+
+
+
+textsms
+There are no questions asked yet. Be the first one to ask a question.
+
+
+
+
+
+
+Reviews (0)
+Get specific details about this product from customers who own it.
+
+
+
+
+Write a Review
+
+
+ 
+assignment
+This product has no reviews yet. Be the first one to write a review.
+
+
+
+
+
+Related Product
+
+
+
+
+
+
+AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Matt White Color
+
+
+29,000৳ 
+
+library_addAdd to Compare
+
+
+
+
+
+
+
+
+
+Toshiba Dynabook Satellite Pro C40-G-109 Celeron 5205U 14"" HD Laptop
+
+
+29,600৳ 
+
+library_addAdd to Compare
+
+
+
+
+
+
+
+
+
+Toshiba Dynabook Satellite Pro C40-G-13F Celeron 5205U 14"" HD Laptop
+
+
+31,000৳ 
+
+library_addAdd to Compare
+
+
+
+
+
+Recently Viewed"
