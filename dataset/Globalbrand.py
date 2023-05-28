@@ -1,16 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
 from csv import writer
+import re
 
 # Send a GET request to the website
-url = "https://www.globalbrand.com.bd/all-laptop?limit=2"
+url = "https://www.globalbrand.com.bd/all-laptop?limit=1000"
 response = requests.get(url)
 
 # Parse the HTML content using BeautifulSoup
 soup = BeautifulSoup(response.content, "html.parser")
 laptop_links=[]
 
-with open('dataset/globalbrand.csv', 'w', encoding='utf8', newline='') as f:
+with open('Globalbrand.csv', 'w', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for laptop in soup.find_all('div', class_='name'):
         laptop_link = laptop.find('a')['href']
@@ -30,8 +31,9 @@ with open('dataset/globalbrand.csv', 'w', encoding='utf8', newline='') as f:
         thewriter.writerow(info)
         break
 
-with open('dataset/globalbrand.csv', 'a', encoding='utf8', newline='') as f:
+with open('Globalbrand.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
+
 
 
     for laptop in soup.find_all('div', class_='name'):
@@ -60,12 +62,13 @@ with open('dataset/globalbrand.csv', 'a', encoding='utf8', newline='') as f:
                 
         for list in lists:
             num = list.find_all('td')
-            print(num)
-            cnt = 0
-            for i in num:
-                cnt += 1
-                print(cnt)
-                print(i.text)
-                info.append(i.text)
-       
+            for n in num:
+                text = n.text
+                if ":" in text:
+                    value = text.split(":")[1].strip()
+                    print(value)
+                    info.append(value)
+
+        
+           
         thewriter.writerow(info)
