@@ -14,7 +14,6 @@ soup = BeautifulSoup(page.content, 'html.parser')
 laptop_links = []
 headings = ['Price', 'Brand']
 
-cnt = 1
 with open('dataset/Startech.csv', 'w', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for laptop in soup.find_all('h4', class_='p-item-name'):
@@ -30,15 +29,13 @@ with open('dataset/Startech.csv', 'w', encoding='utf8', newline='') as f:
         for head in heading:
             headings.append(head.text)
 
-        cnt += 1
+    headings = list(dict.fromkeys(headings))
     thewriter.writerow(headings)
-
-headings = list(dict.fromkeys(headings))
-print(len(headings))
+    print(len(headings))
 
 with open('dataset/Startech.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
-    for page_num in range(1,9):
+    for page_num in range(1, 9):
         url = url[:-1]
         url = url + str(page_num)
         page = requests.get(url)
@@ -52,8 +49,6 @@ with open('dataset/Startech.csv', 'a', encoding='utf8', newline='') as f:
             laptop_html = laptop_response.text
             laptop_soup = BeautifulSoup(laptop_html, 'html.parser')
 
-            info = []
-        
             price = laptop_soup.find('td', class_='product-info-data product-regular-price')
             if price != None:
 
@@ -63,56 +58,37 @@ with open('dataset/Startech.csv', 'a', encoding='utf8', newline='') as f:
                     for i in work:
                         if i != ',' and i != '৳':
                             name = name + i
-                         
-                info.append(name)
+
+                laptop_cost = name
 
                 # scraping the brand name
                 brand = laptop_soup.find('h1', class_='product-name')
                 brand_name = brand.text.split()[0]
-                info.append(brand_name)
-                
-                heading = laptop_soup.find('div', class_='short-description')
-                body = heading.find('ul')
-                ans = body.find_all('li')
-
-                # for item in ans:
-                #     name = item.text
-                #     if "Model: " in name:
-                #         info.append(name[7:])
 
                 heading = laptop_soup.find_all('td', class_='name')
                 lists = laptop_soup.find_all('div', class_='product-details content')
-                        
+
                 for list in lists:
                     num = list.find_all('td', class_='value')
-                    ind = 2
 
+                    heading_map = dict(zip(headings, ["NULL"] * len(headings)))
+
+                    # mapping the properties to the values
                     for data in range(len(num)):
-                        x = headings[ind]
-                        y = heading[data].text.strip()
-                
-                        # checking whether the headings match, to decide whether to add the value or the NULL value 
-                        if x == y:
-                            # splitting the processor model 
-                            if x == "Processor Model":
-                                take = num[data].text.strip()
-                                take = take.split("-")[0]
-                                info.append(take)
-                            else:
-                                info.append(num[data].text.strip())
-                        else:
-                            ind += 1
-                            info.append("NULL")
-                            if x == "Processor Model":
-                                take = num[data].text.strip()
-                                take = take.split("-")[0]
-                                info.append(take)
-                            else:
-                                info.append(num[data].text.strip())
+                        x = heading[data].text.strip()
+                        y = num[data].text.strip()
+
+                        if x == "Processor Model":
+                                y = y.split("-")[0]
                         
-                        ind += 1
-                        if ind >= len(headings):
-                            break
+                        heading_map[x] = y
+
+                    heading_map["Price"] = laptop_cost
+                    heading_map["Brand"] = brand_name
+
+                    # inserting the mapped values into the list, and writing them to the csv file 
+                    info = []
+                    for heads in headings:
+                        info.append(heading_map[heads])
 
                     thewriter.writerow(info)
-
