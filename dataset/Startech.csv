@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+Price,Brand,Processor Brand,Processor Model,Processor Frequency,Processor Core,Processor Thread,CPU Cache,Display Size,Display Type,Display Resolution,Touch Screen,RAM,RAM Type,Storage Type,Storage Capacity,Extra M.2 Slot,Graphics Model,Graphics Memory,Keyboard Type,TouchPad,WebCam,Speaker,Microphone,Optical Drive,Card Reader,HDMI Port,USB 3 Port,Headphone & Microphone Port,LAN,WiFi,Bluetooth,Fingerprint Sensor,Operating System,Battery Capacity,Adapter Type,Color,Dimensions,Weight,Warranty Details
+29950,AVITA,AVITA Essential 14,NULL,"Share:
+
+
+
+
+bookmark_border Save
+library_add Add to Compare
+
+
+
+=======
 Price,Brand,Processor Brand,Processor Model,Generation,Processor Frequency,Processor Core,Processor Thread,CPU Cache,Display Size,Display Resolution,Touch Screen,Display Features,RAM,RAM Type,Bus Speed,Total RAM Slot,Storage Type,Storage Capacity,Extra M.2 Slot,Supported SSD Type,Graphics Model,Graphics Memory,Graphics Type,Keyboard Type,TouchPad,WebCam,Speaker,Microphone,Audio Features,Optical Drive,Card Reader,HDMI Port,USB 3 Port,USB Type-C / Thunderbolt Port,Headphone & Microphone Port,LAN,WiFi,Bluetooth,Fingerprint Sensor,Operating System,Battery Type,Battery Capacity,Color,Dimensions,Weight,Warranty Details,Chipset Model,Display Type,Removable,Max RAM Capacity,HDD RPM,Storage Upgrade,Security Chip,Adapter Type,Mini HDMI Port,USB 2 Port,Security Locker Slot,Other Features,Camera Privacy Shutter,Body Material,Display Port,Keyboard Features,Backup Time (Approx),Refresh Rate,VGA/D-Sub,Response TIme
 302500,Dell,Intel,Core i7,11th Gen,2.30 GHz up to 4.60 GHz,8,16,24,15.6 Inch,FHD+ (1920 x 1200),No,InfinityEdge Anti-Glare 500-Nit Display,16GB  (8GBx2),DDR4,3200MHz,2,M.2 PCIe NVMe Solid State Drive,1TB,N/A,M.2 PCIe NVMe,NVIDIA GeForce RTX 3050 Ti,4GB,GDDR6,Black Backlit Keyboard (US-International),Yes,720p at 30 fps HD camera,Yes,Yes,Stereo speakers professionally tuned with Waves MaxxAudio Pro,N/A,1 x microSD slot,HDMI v2.0 adapter ships standard,1x USB-C to USB-A v3.0,2x Thunderbolt 3 with power delivery & DisplayPort 1x USB-C 3.1 with power delivery & DisplayPort,1x 3.5mm headphone/microphone combo jack,N/A,Killer Wi-Fi 6 AX1650 (2×2),Bluetooth 5.0,Yes,Windows 11 Home,6-Cell Battery (Integrated),86WHr,Platinum Silver,"Height: 18 mm
 Width: 344.72 mm
@@ -1054,12 +1067,11 @@ L3 Cache: 16MB",16 Inch,3840 x 2400,No,"Aspect ratio: 16:9, Response time: 0.2ms
 1,000,000:1 contrast ratio
 XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)
 SDR brightness: 500 nits
+>>>>>>> e1bc7adae4597f2114b8a205c1ed5e60e29421e3
 
-Color:
-1 billion colors
-Wide color (P3)
-True Tone technology
 
+<<<<<<< HEAD
+=======
 Simultaneously supports full native resolution on the built-in display at 1 billion colors and:
 Up to two external displays with up to 6K resolution at 60Hz over Thunderbolt, or one external display with up to 6K resolution at 60Hz over Thunderbolt and one external display with up to 4K resolution at 144Hz over HDMI
 One external display supported at 8K resolution at 60Hz or one external display at 4K resolution at 240Hz over HDMI",16GB unified memory,NULL,NULL,NULL,SSD,1TB,NULL,NULL,19-core GPU,Shared,"Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW
@@ -1086,12 +1098,11 @@ Fixed refresh rates: 47.95Hz, 48.00Hz, 50.00Hz, 59.94Hz, 60.00Hz",NULL,NULL
 1,000,000:1 contrast ratio
 XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)
 SDR brightness: 500 nits
+>>>>>>> e1bc7adae4597f2114b8a205c1ed5e60e29421e3
 
-Color:
-1 billion colors
-Wide color (P3)
-True Tone technology
 
+<<<<<<< HEAD
+=======
 Simultaneously supports full native resolution on the built-in display at 1 billion colors and:
 Up to two external displays with up to 6K resolution at 60Hz over Thunderbolt, or one external display with up to 6K resolution at 60Hz over Thunderbolt and one external display with up to 4K resolution at 144Hz over HDMI
 One external display supported at 8K resolution at 60Hz or one external display at 4K resolution at 240Hz over HDMI",16GB unified memory,NULL,NULL,NULL,SSD,1TB,NULL,NULL,19-core GPU,Shared,"Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW
@@ -1118,12 +1129,11 @@ Fixed refresh rates: 47.95Hz, 48.00Hz, 50.00Hz, 59.94Hz, 60.00Hz",NULL,NULL
 1,000,000:1 contrast ratio
 XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)
 SDR brightness: 500 nits
+>>>>>>> e1bc7adae4597f2114b8a205c1ed5e60e29421e3
 
-Color:
-1 billion colors
-Wide color (P3)
-True Tone technology
 
+<<<<<<< HEAD
+=======
 Simultaneously supports full native resolution on the built-in display at 1 billion colors and:
 Up to two external displays with up to 6K resolution at 60Hz over Thunderbolt, or one external display with up to 6K resolution at 60Hz over Thunderbolt and one external display with up to 4K resolution at 144Hz over HDMI
 One external display supported at 8K resolution at 60Hz or one external display at 4K resolution at 240Hz over HDMI",16GB unified memory,NULL,NULL,NULL,SSD,512GB,NULL,NULL,16-core GPU,Shared,"Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW
@@ -1150,12 +1160,372 @@ Fixed refresh rates: 47.95Hz, 48.00Hz, 50.00Hz, 59.94Hz, 60.00Hz",NULL,NULL
 1,000,000:1 contrast ratio
 XDR brightness: 1000 nits sustained full-screen, 1600 nits peak (HDR content only)
 SDR brightness: 500 nits
+>>>>>>> e1bc7adae4597f2114b8a205c1ed5e60e29421e3
 
-Color:
-1 billion colors
-Wide color (P3)
-True Tone technology
 
+<<<<<<< HEAD
+
+
+
+
+ 
+
+
+
+
+AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Matt White Color
+
+
+Price
+29,000৳
+
+
+Regular Price
+29,950৳
+ 
+Status
+In Stock
+
+
+Product Code
+18985
+
+
+Brand
+AVITA
+
+
+
+
+
+
+
+
+Key Features
+MPN: NE14A2BDC44A-MWBModel: AVITA Essential 14Processor: Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)
+RAM: 4GB LPDDR4, Storage: 256GB SATA SSD
+Display: 14"" FHD (1920 x 1080) IPS
+Features: 2M WebCam, 0.8W x 2 SpeakerView More Info
+
+
+
+stars
+220
+Star Points
+
+
+Payment Options
+
+
+
+29,000৳
+Cash Discount Price Online / Cash Payment
+
+
+
+2,496৳/month
+Regular Price: 29,950৳
+0% EMI for up to 12 Months***
+
+
+
+
+remove
+
+add
+
+
+Buy Now
+
+
+
+
+
+
+
+
+
+
+
+SpecificationDescriptionQuestions (0)Reviews (0)
+
+
+
+
+Specification
+
+
+
+
+
+
+
+
+Processor
+
+
+
+
+Processor BrandIntel
+
+Processor ModelCeleron N4020
+
+Processor Frequency1.10 GHz up to 2.80 GHz
+
+Processor Core2
+
+Processor Thread2
+
+CPU Cache4MB
+ 
+
+
+Display
+
+
+
+
+Display Size14 Inch
+
+Display TypeIPS
+
+Display ResolutionFHD (1920 x 1080)
+
+Touch ScreenNo
+ 
+
+
+Memory
+
+
+
+
+RAM4GB
+
+RAM TypeLPDDR4
+ 
+
+
+Storage
+
+
+
+
+Storage TypeSATA M.2 SSD
+
+Storage Capacity256GB
+
+Extra M.2 SlotN/A
+ 
+
+
+Graphics
+
+
+
+
+Graphics ModelIntel UHD Graphics 600
+
+Graphics MemoryShared
+ 
+
+
+Keyboard & TouchPad
+
+
+
+
+Keyboard TypeIsland style non-backlit keyboard
+
+TouchPadYes
+ 
+
+
+Camera & Audio
+
+
+
+
+WebCam2MP
+
+Speaker0.8W x 2
+
+MicrophoneDual Microphones
+ 
+
+
+Ports & Slots
+
+
+
+
+Optical DriveN/A
+
+Card ReaderMicro SD card
+
+HDMI PortFull size HDMI x 1
+
+USB 3 PortUSB 3.0 Type-A x 2
+
+Headphone & Microphone PortHeadphone Jack
+ 
+
+
+Network & Connectivity
+
+
+
+
+LANN/A
+
+WiFiYes
+
+BluetoothYes
+ 
+
+
+Security
+
+
+
+
+Fingerprint SensorN/A
+ 
+
+
+Software
+
+
+
+
+Operating SystemWindows 10 Home
+ 
+
+
+Power
+
+
+
+
+Battery Capacity7.6V 4830mAh
+
+Adapter TypeAC Adapter and Power cord
+ 
+
+
+Physical Specification
+
+
+
+
+ColorMatt White
+
+Dimensions321(W) x 225(H) x 20(D) mm
+
+WeightStarting from 1.377kg
+ 
+
+
+Warranty
+
+
+
+
+Warranty Details2 Years
+ 
+
+
+
+Description
+
+AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Matt White ColorAVITA Essential 14 Celeron N4020 14"" Full HD Laptop come with Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz), 4GB LPDDR4 RAM, 256GB SATA M.2 SSD, Intel UHD Graphics 600 with Windows 10 Home in S mode. This laptop is featured with Battery: 7.6V 4830mAh, Island style non-backlit keyboard, 2M WebCam, Micro SD card, 14"" FHD (1920 x 1080) IPS Display, 0.8W x 2 Speaker, Dual Microphones. Here, Network & Wireless Connectivity are also available. In this laptop it is also has USB 3.0 Type-A x 2, Full size HDMI x 1, Headphone Jack Ports, Connectors & Slots are also availble. This latest AVITA Essential 14 Celeron N4020 14"" Full HD Laptop has 2 Years of Warranty.
+
+
+
+
+Questions (0)
+Have question about this product? Get specific details about this product from expert.
+
+
+Ask Question
+
+
+
+textsms
+There are no questions asked yet. Be the first one to ask a question.
+
+
+
+
+
+
+Reviews (0)
+Get specific details about this product from customers who own it.
+
+
+
+
+Write a Review
+
+
+ 
+assignment
+This product has no reviews yet. Be the first one to write a review.
+
+
+
+
+
+Related Product
+
+
+
+
+
+
+AVITA Essential 14 Celeron N4020 256GB SSD 14"" Full HD Laptop Matt White Color
+
+
+29,000৳ 
+
+library_addAdd to Compare
+
+
+
+
+
+
+
+
+
+Toshiba Dynabook Satellite Pro C40-G-109 Celeron 5205U 14"" HD Laptop
+
+
+29,600৳ 
+
+library_addAdd to Compare
+
+
+
+
+
+
+
+
+
+Toshiba Dynabook Satellite Pro C40-G-13F Celeron 5205U 14"" HD Laptop
+
+
+31,000৳ 
+
+library_addAdd to Compare
+
+
+
+
+
+Recently Viewed"
+=======
 Simultaneously supports full native resolution on the built-in display at 1 billion colors and:
 Up to two external displays with up to 6K resolution at 60Hz over Thunderbolt, or one external display with up to 6K resolution at 60Hz over Thunderbolt and one external display with up to 4K resolution at 144Hz over HDMI
 One external display supported at 8K resolution at 60Hz or one external display at 4K resolution at 240Hz over HDMI",16GB unified memory,NULL,NULL,NULL,SSD,512GB,NULL,NULL,16-core GPU,Shared,"Hardware-accelerated H.264, HEVC, ProRes, and ProRes RAW
@@ -1243,3 +1613,4 @@ Depth: 215.18 mm",1.27 kg,03 years warranty (Battery & Adapter 1 Year),NULL,NULL
 Rear Height: 13.91mm
 Width: 310.59 mm
 Depth: 215.18 mm",1.27 kg,03 years warranty (Battery & Adapter 1 Year),NULL,NULL,NULL,NULL,NULL,NULL,NULL,ExpressCharge Capable AC Adapter,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+>>>>>>> e1bc7adae4597f2114b8a205c1ed5e60e29421e3
