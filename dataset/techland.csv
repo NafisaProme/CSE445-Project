@@ -1,0 +1,420 @@
+Price,Processor Brand,Processor Model,Generation,RAM,Storage,Graphics,Display,Adapter,Battery,Operating System,Networking,Keyboard,Bluetooth,Audio,WebCam,Ports & Connectors,Color ,Dimensions (W x D x H),Weight,Warranty ,Chipset,Optical Drive,Fingerprint,Body Material,Display Touch,Security,Touchpad,Included in the Box,SSD,Software,Others,Thermal Functionality,Display Size,Camera,Warranty,Keyborad,Dimension,Color,Interface,Manufacturing Warranty,Slots
+143000,AMD,Ryzen 7,NULL,8GB,512GB SSD,"NVIDIA GeForce RTX 3050 Ti, 4GB GDDR6 Laptop GPU
+With ROG Boost up to 1795MHz at 80W (95W with Dynamic Boost)",144Hz 15.6-inch FHD (1920 x 1080) 16:9 anti-glare display with Adaptive-Sync,"ø6.0, 200W AC Adapter, Output: 20V DC, 10A, 200W, Input: 100-240V AC, 50/60Hz universal
+","56WHrs, 4S1P, 4-cell Li-ion
+",Windows 10,Wi-Fi 6(802.11ax)+Bluetooth 5.1 (Dual band) 2*2;(*BT version may change with OS upgrades.) -RangeBoost,"Backlit Chiclet Keyboard 4-Zone RGB
+ Number pad available",5.1 Dual-band,"Dolby Atmos
+AI noise-canceling technology
+Built-in array microphone
+2x 1.5W speaker",FHD 1080P 60FPS external camera,"1x 3.5mm Combo Audio Jack
+1x HDMI 2.0b
+3x USB 3.2 Gen 1 Type-A
+1x USB 3.2 Gen 1 Type-C support DisplayPort / power delivery",Eclipse Grey,"35.4 x 25.9 x 2.06 ~ 2.59 cm (13.94"" x 10.20"" x 0.81"" ~ 1.02"")
+","2.10 Kg (4.63 lbs)
+","2 years International Limited Warranty (Terms & condition Apply As Per Asus)
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+162000,Apple,M2 chip,NULL,8GB,256GB SSD,"10-core GPU 
+16-core Neural Engine 
+100GB/s memory bandwidth ","Retina display 
+13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch with support for millions of colors 
+500 nits brightness 
+The wide color (P3) 
+True Tone technology ",67W USB-C Power Adapter,"Up to 20 hours of Apple TV app movie playback 
+Up to 17 hours of wireless web 
+58.2-watt-hour lithium-polymer battery",macOS,"802.11ax Wi-Fi 6 wireless networking 
+IEEE 802.11a/b/g/n/ac compatible","Backlit Magic Keyboard with: 
+65 (U.S.) or 66 (ISO) keys including 4 arrow keys in an inverted‑T arrangement","Bluetooth 5.0 wireless technology
+","Stereo speakers with high dynamic range 
+Wide stereo sound 
+Support for Spatial Audio when playing music or video with Dolby Atmos on built-in speakers 
+Spatial Audio with dynamic head tracking when using AirPods (3rd generation), AirPods Pro, and AirPods Max 
+Studio-quality three-mic array with high signal-to-noise ratio and directional beamforming 
+3.5 mm headphone jack with advanced support for high-impedance headphones ","720p FaceTime HD camera 
+Advanced image signal processor with computational video","Two Thunderbolt / USB 4 ports with support for: 
+Charging 
+DisplayPort 
+Thunderbolt 3 (up to 40Gb/s) 
+USB 4 (up to 40Gb/s) 
+USB 3.1 Gen 2 (up to 10Gb/s) ",Space Grey,"Height: 0.61 inch (1.56 cm) 
+Width: 11.97 inches (30.41 cm) 
+Depth: 8.36 inches (21.24 cm)", 3.0 pounds (1.4 kg),"01 year International Limited Warranty
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+47500,Intel,Core i3,10th,4GB,256GB SSD,"Integrated Intel UHD Graphics
+","15.6"" FHD (1920x1080) TN 220nits Anti-glare
+","65W Round Tip (2-pin, Wall-mount)
+","Integrated 35Wh
+","Windows 11 Home 64, English
+","11ac, 2x2 + BT5.0
+","Non-backlit, English (EU)
+","11ac, 2x2 + BT5.0
+","High Definition (HD) Audio
+","720p with Privacy Shutter
+",NULL,"Platinum Grey
+","362.2 x 253.4 x 19.9 mm (14.26 x 9.98 x 0.78 inches)
+","1.85 kg (4.08 lbs)
+",3 years,"Intel SoC Platform
+",None,None,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+78000,Intel,Core i5,11th,8GB,512GB SSD,"NVIDIA GeForce MX350 2GB GDDR5 Graphics
+","15.6"" FHD (1920x1080) 250 TN DISPLAY Anti-glare, IMR (In-Mold Decoration by Roller)
+",65W Adapter,"Integrated 38Wh, Mobile Mark 2018, Local video (1080p) playback150nits
+",Windows 11 Home,"WiFi 11ac, 2x2
+","Backlit, English (EU)
+Number pad available",5.0,"Audio Chip: High Definition (HD) Audio, Realtek ALC3287 codec
+Speakers: Stereo speakers, 1.5W x2, Dolby Audio","720p with Privacy Shutter
+","1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 1 (support data transfer only)
+1x USB 2.0
+1x HDMI 1.4b
+1x Headphone / microphone combo jack (3.5mm)
+4-in-1 Card Reader
+","Arctic Grey
+","359.2 x 236.5 x 19.9 mm (14.14 x 9.31 x 0.78 inches)
+","Starting at 1.6kg / 3.5lbs
+",3 year,NULL,NULL,Yes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+58000,Intel,Core i3,11th,8GB,256GB SSD,"Integrated Intel UHD Graphics
+","14"" FHD (1920x1080) TN 250nits Anti-glare, 45% NTSC
+","65W Round Tip (2-pin, Wall-mount)
+","45Wh Battery,
+",Windows 11 Home,"WiFi 6, 2 x 2, 1 x 1 AC
+","Backlit, English (EU)
+ Number pad available
+",5.0,"Dolby Audio 
+2x, Array 
+Stereo speakers, 1.5W x2","FW TPM 2.0,Camera Privacy Shutter 
+720p Webcam with Privacy Shutter
+ Number pad available","1x USB 3.2 Gen 1 
+1x USB 2.0 
+1x USB-C 3.2 Gen 1 (support data transfer only) 
+HDMI 1.4b x 1 
+1 x Headphone / mic combo 
+SD card reader
+","ARCTIC GREY
+","324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches)
+","1.41 kg (3.1 lbs)
+",3 years International Limited Warranty (Terms & condition Apply As Per Lenovo),NULL,NULL,Yes,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+80500,Intel,Core i5,12th,8GB,512GB SSD,"Integrated Intel Iris Xe Graphics Functions as UHD Graphics
+","14"" FHD (1920x1080) TN 250nits Anti-glare
+","65W Round Tip (3-pin)
+","Integrated 45Wh Battery,
+",Windows 11 Home,"Wi-Fi 6, 11ax 2x2 ","Non-backlit, English (EU)
+",5.1,"High Definition (HD) Audio
+
+Stereo speakers, 1.5W x2, Dolby Audio
+","HD 720p with Privacy Shutter
+","1x USB 2.0
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0, and DisplayPort 1.2)
+1x HDMI 1.4b
+1x Card reader
+1x Headphone/microphone combo jack (3.5mm)
+1x Power connector","Arctic Grey
+","324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches)
+","1.41 kg (3.1 lbs)
+","3 Years (Battery + Adapter 1 Year)
+",NULL,NULL,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+71500,AMD,Ryzen™ 5,NULL,16GB,512GB SSD,"Graphics Model: AMD Radeon
+Graphics Memory: Shared
+Graphics Type: Integrated","Display Type: 14""
+Display Resolution: FHD (1920x1080)
+Display Features: 250nits Anti-glare","65W Round Tip (3-pin)
+","Battery Type: Integrated
+Battery Capacity: 45Wh
+Adapter Type: 65W Round Tip (3-pin)",NULL,"WiFi: Wi-Fi® 6, 11ax 2x2
+Bluetooth: BT5.1","English (EU), Arctic ",5.1,"Speaker: Yes 
+Microphone: 2x, Array 
+Audio Features: High Definition (HD) Audio, Stereo speakers, 1.5W x2, Dolby Audio",SMART HD WEBCAM,"Card Reader: 4-in-1 Card Reader
+HDMI Port: 1x HDMI 1.4b
+USB 2 Port: 1x USB 2.0
+USB 3 Port: 1x USB 3.2 Gen 1
+USB Type-C / Thunderbolt Port: 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0, and DisplayPort 1.2)
+Headphone & Microphone Port: 1x Headphone/microphone combo jack (3.5mm)","Arctic Grey
+","324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches)
+","Starting at 1.43 kg (3.15 lbs)
+",03 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),NULL,NULL,NULL,"PC-ABS (Top), PC-ABS (Bottom)
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+103000,AMD,Ryzen 7,NULL,16GB,512GB SSD,"Integrated AMD Radeon Graphics
+","14"" FHD (1920x1080) IPS 250nits Glossy-45% NTSC,10 Point Multi Touch","65W USB-C (3-pin)
+","Integrated 52.5Wh
+","Windows 11 Home 64, English
+",802.11ac 2x2 Wi-Fi,"Backlit, English (EU)
+","11ac, 2x2 + BT5.0
+","High Definition (HD) Audio 
+Stereo speakers, 2W x2, optimized with Dolby Audio","720p with Privacy Shutter
+","1x USB 3.2 Gen 1 
+1x USB 3.2 Gen 1 (Always On)
+1x USB-C 3.2 Gen 1 (support data transfer and Power Delivery 3.0)
+1x HDMI 1.4b
+1x Card reader
+1x Headphone / microphone combo jack (3.5mm)
+1x Power connector",Graphite Grey,"321.5 x 217.5 x 17.9-20.9 mm (12.65 x 8.56 x 0.70-0.82 inches)
+","1.5 kg (3.31 lbs)
+","3 Year International (1 year for Battery and Adapter)
+","AMD SoC Platform
+",None,"Touch Style
+",NULL,"10-point Multi-touch
+","Firmware TPM 2.0
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+88000,AMD,Ryzen 5,NULL,8GB,512GB SSD,"Integrated AMD Radeon Graphics
+","14 inch FHD (1920x1080) IPS 250nits Glossy, 45% NTSC, Touch, 100% SRGB
+","65W USB-C (3-pin)
+","Integrated 52.5Wh
+","Windows 11 Home 64, English
+","11ac, 2x2 + BT5.0
+","Backlit, English (EU)
+","11ac, 2x2 + BT5.0
+","High Definition (HD) Audio
+","720p with Privacy Shutter
+","1x USB 3.2 Gen 1 
+1x USB 3.2 Gen 1 (Always On)
+1x USB-C 3.2 Gen 1 (support data transfer and Power Delivery 3.0)
+1x HDMI 1.4b
+1x Card reader
+1x Headphone / microphone combo jack (3.5mm)
+1x Power connector",Graphite Grey,"321.5 x 217.5 x 17.9-20.9 mm (12.65 x 8.56 x 0.70-0.82 inches)
+","1.5 kg (3.31 lbs)
+",3 Years,"AMD SoC Platform
+",None,"Touch Style
+",NULL,"10-point Multi-touch
+","Firmware TPM 2.0
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+67000,AMD,Ryzen 5,NULL,,512GB SSD,AMD Radeon Graphics,"15.6"" FHD (1920x1080) IPS Display 300 nits, Aspect Ratio: 16:9, Color Gamut: 45% NTSC","65W Round Tip Wall-mount
+","3 Cell 45Wh Internal battery
+",Windows 11,802.11AC (2 x 2),"6-row, multimedia Fn keys , Backlit keyboard",Bluetooth 5.0,2 x 1.5W speakers Dolby Audio,"720 HD webcam with privacy shutter
+","USB-C 3.2 Gen 1 
+USB-A 3.2. Gen 1 
+USB-A 2.0 
+HDMI 1.4b
+SD card reader
+Headphone/mic combo jack",Arctic Grey,NULL,"Starting at 1.5kg
+",3 Year International (1 year for Battery and Adapter),NULL,NULL,Yes (Smart Fingerprint),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+67000,AMD,Ryzen™ 5,NULL,8GB,256GB SSD,"Graphics Model: AMD Radeon
+Graphics Memory: Shared
+Graphics Type: Integrated","Display Type: 14""
+Display Resolution: FHD (1920x1080)
+Display Features: 250nits Anti-glare","65W Round Tip (3-pin)
+","Battery Type: Integrated
+Battery Capacity: 45Wh
+Adapter Type: 65W Round Tip (3-pin)",NULL,"WiFi: Wi-Fi® 6, 11ax 2x2
+Bluetooth: BT5.1",English (EU),5.1,"Speaker: Yes 
+Microphone: 2x, Array 
+Audio Features: High Definition (HD) Audio, Stereo speakers, 1.5W x2, Dolby Audio",HD WEBCAM,"Card Reader: 4-in-1 Card Reader
+HDMI Port: 1x HDMI 1.4b
+USB 2 Port: 1x USB 2.0
+USB 3 Port: 1x USB 3.2 Gen 1
+USB Type-C / Thunderbolt Port: 1x USB-C 3.2 Gen 1 (support data transfer, Power Delivery 3.0, and DisplayPort 1.2)
+Headphone & Microphone Port: 1x Headphone/microphone combo jack (3.5mm)","Arctic Grey
+","324.2 x 215.7 x 19.9 mm (12.76 x 8.49 x 0.78 inches)
+","1.43 kg (3.15 lbs)
+",02 years Limited Warranty (Terms & Conditions Apply As Per Lenovo),NULL,NULL,NULL,"PC-ABS (Top), PC-ABS (Bottom)
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+75500,AMD,Ryzen 7,NULL,,512GB SSD,AMD Radeon Graphics,"14 inch 1920x1080 (WxH) FHD IPS Display Brightness: 300 nits, Aspect Ratio: 16:9, Color Gamut: 45% NTSC","65W Round Tip Wall-mount
+","38Wh Li-Polymer
+",Windows 11 Home,802.11AC (2 x 2),"6-row, multimedia Fn keys",Bluetooth 5.0,"2 x 1.5W speakers
+Dolby Audio","720 HD webcam with privacy shutter
+","USB-C 3.2 Gen 1 
+USB-A 3.2. Gen 1 
+USB-A 2.0 
+HDMI 1.4b
+SD card reader
+Headphone/mic combo jack",Arctic Grey,NULL,"Starting at 1.5kg
+",3 Year International (1 year for Battery and Adapter),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+70000,AMD,Ryzen 5,NULL,,512GB SSD,AMD Radeon Graphics,"14"" FHD (1920x1080) IPS Display 300 nits, Aspect Ratio: 16:9, Color Gamut: 45% NTSC","65W Round Tip Wall-mount
+","3 Cell 45Wh Internal battery
+",Windows 11,802.11AC (2 x 2),"6-row, multimedia Fn keys , Backlit keyboard",Bluetooth 5.0,2 x 1.5W speakers Dolby Audio,"720 HD webcam with privacy shutter
+","USB-C 3.2 Gen 1 
+USB-A 3.2. Gen 1 
+USB-A 2.0 
+HDMI 1.4b
+SD card reader
+Headphone/mic combo jack",Arctic Grey,NULL,"Starting at 1.5kg
+",3 Year International (1 year for Battery and Adapter),NULL,NULL,Yes (Smart Fingerprint),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+55000,AMD,Ryzen 3,NULL,8GB,512GB SSD,Integrated AMD Radeon Graphics,"15.6"" FHD (1920x1080) TN 220nits Anti-glare
+","65W Round Tip (3-pin)
+","Integrated 42Wh
+",Windows 11,"11ac, 2x2","Non-backlit, English (EU)
+",5.0,"Stereo speakers, 1.5W x2, Dolby Audio
+","HD 720p with Privacy Shutter
+","1x USB 2.0
+1x USB 3.2 Gen 1
+1x USB-C 3.2 Gen 1 (support data transfer only)
+1x HDMI 1.4b
+1x Card reader
+1x Headphone / microphone combo jack (3.5mm)
+1x Power connector","Cloud Grey
+",NULL,"Around 1.6 kg (3.53 lbs)
+",3 years International Limited Warranty (Terms & condition Apply As Per Lenovo),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+87000,Intel,Core i5,11th,8GB,512GB SSD,Intel Iris Xe Graphics,"14"" FHD (1920 x1080) Display, narrow bezel, anti-glare, 250 nits, 45% NTSC
+","45W External AC power adapter;
+","HP Long Life 3-cell, 45 Wh Li-ion
+",Win 10,Intel AX201 Wi-Fi 6 (2x2),"Spill-resistant, full-size, Non-Backlit Standard keyboard
+",Bluetooth 5 ,"Dual stereo speakers, dual array microphone
+",720p HD camera," USB 3.1 Gen 2 Type-C port (Power delivery, DisplayPort 1.2)
+3 USB 3.1 Gen 1 port (1 charging; 1 powered port)
+HDMI 1.4b (cable sold separately)
+RJ-45/Ethernet port
+Headphone/microphone combo jack
+AC power input port",NULL,"32.19 x 21.39 x 1.99 cm
+","Starting at 1.38 kg
+",03 years International Limited Warranty (Terms & condition Apply As Per HP),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+81000,Intel,Core i5,12th,8,512 SSD,Intel Iris Xe Graphics,"15.6"" diagonal, FHD (1920 x 1080), IPS, micro-edge, BrightView, 250 nits, 45% NTSC
+",45 W Smart AC power adapter,"3-cell, 41 Wh Li-ion",Windows 11 64bit,Realtek RTL8821CE-M 802.11a/b/g/n/ac (1x1) Wi-Fi,NULL,Bluetooth 5,Dual speakers,"HP True Vision 720p HD camera with integrated dual array digital microphones
+","1x multi-format SD media card reader;
+1x USB 3.1 Gen 1 Type-C (Data Transfer Only, 5 Gb/s signaling rate);
+2 SuperSpeed USB Type-A 5Gbps signaling rate
+1x AC smart pin;
+1x HDMI 1.4b;
+1x headphone/microphone combo;",Silver,"32.4 x 22.5 x 1.79 cm
+","Starting at 1.47 kg
+","2 years International Limited Warranty (Terms & condition Apply As Per HP)
+",NULL,Optical drive not included,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+47500,Intel,Core io,1.th,4GB,256GB SSD,"Intel UHD Graphics
+","15.6"" diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC
+","45 W Smart AC power adapter
+","3-cell, 41 Wh Li-ion
+",Win11 Home & MSO,"Realtek RTL8821CE-M 802.11a/b/g/n/ac (1x1) Wi-Fi® and Bluetooth® 4.2 combo
+",NULL,Bluetooth 4.2 combo,"Dual speakers
+","HP True Vision 720p HD camera with integrated dual array digital microphones
+",NULL,Silver,"35.85 x 24.2 x 1.79 cm
+","1.65 kg
+",2 Years,"Intel Integrated SoC
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+60700,AMD,Ryzen 3,NULL,8,512 SSD,AMD Radeon Graphics,"39.6 cm (15.6"") diagonal, FHD (1920 x 1080),, micro-edge, anti-glare, 250 nits, 45% NTSC
+",45 W Smart AC power adapter,"3-cell, 41 Wh Li-ion",Windows 11 Home,"Realtek Wi-Fi CERTIFIED 6 (1x2)
+and Bluetooth 5.2 combo (Supporting Gigabit data rate)
+","Backlit Keyboard
+",Bluetooth 5.2 combo (Supporting Gigabit data rate),"Dual speakers
+","HP True Vision 720p HD camera with integrated dual array digital microphones
+","1 SuperSpeed USB Type-C 5Gbps signaling rate; 
+2 SuperSpeed USB Type-A 5Gbps signaling rate; 
+1 HDMI 1.4b; 
+1 AC smart pin; 
+1 headphone/microphone combo 
+1 multi-format SD media card reader 
+","Spruce Blue
+","35.85 x 24.2 x 1.79 cm
+","Starting at 1.7 kg
+","02 years International Limited Warranty (Terms & Conditions Apply As Per HP).
+",NULL,No,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+60000,Intel®,Core i3,11th,4GB,1 SSD,"Intel UHD Graphics
+","39.6 cm (15.6"") diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC","45 W Smart AC power adapter
+","Battery type: 3-cell, 41 Wh Li-ion
+Battery life mixed usage: Up to 5 hours and 15 minutes
+Video Playback Battery life: Up to 7 hours and 15 minutes",Windows 10 Home 64 bit,Realtek RTL8822CE 802.11a/b/g/n/ac (2x2) Wi-Fi 6,"Full-size, natural silver keyboard with numeric keypad
+ Number pad available",Bluetooth 5,Dual speakers,"HP True Vision 720p HD camera with integrated dual array digital microphones
+","1 x SuperSpeed USB Type-C 5Gbps signaling rate;
+2 x SuperSpeed USB Type-A 5Gbps signaling rate;
+1 x HDMI 1.4b
+1 x headphone/microphone combo
+1 x multi-format SD media card reader
+RJ-45",Black,"35.85 x 24.2 x 1.99 cm
+","Starting at 1.75 kg
+",2 Year International Warranty (Battery & Adapter 01 Year),"Intel Integrated SoC
+",Optical drive not included,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+62500,Intel®,Core i3,11th,8GB,1 SSD,"Intel UHD Graphics
+","39.6 cm (15.6"") diagonal, FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC","45 W Smart AC power adapter
+","Battery type: 3-cell, 41 Wh Li-ion
+Battery life mixed usage: Up to 5 hours and 15 minutes
+Video Playback Battery life: Up to 7 hours and 15 minutes",Windows 11 Home 64 bit,Realtek RTL8822CE 802.11a/b/g/n/ac (2x2) Wi-Fi 6,"Full-size, natural silver keyboard with numeric keypad
+ Number pad available",Bluetooth 5,Dual speakers,"HP True Vision 720p HD camera with integrated dual array digital microphones
+","1 x SuperSpeed USB Type-C 5Gbps signaling rate;
+2 x SuperSpeed USB Type-A 5Gbps signaling rate;
+1 x HDMI 1.4b
+1 x headphone/microphone combo
+1 x multi-format SD media card reader
+RJ-45",Black,"35.85 x 24.2 x 1.99 cm
+","Starting at 1.75 kg
+",2 Year International Warranty (Battery & Adapter 01 Year),"Intel Integrated SoC
+",Optical drive not included,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+78000,Intel,Core i5,11th,8GB,512GB SSD,"Intel Iris Xe Graphics
+","15.6-inch, FHD (1920 x 1080) IPS 16:9, Anti-glare display, LED Backlit, 200nits, NTSC: 45%, Screen-to-body ratio: 83 %
+","45W AC Adapter
+","37WHrs, 2S1P, 2-cell Li-ion","Windows 10
+",Wi-Fi 5(802.11ac),"Illuminated Chiclet Keyboard with Num-key
+1.4mm Key-travel
+ Number pad available","Bluetooth 4.1 (Dual-band)
+","SonicMaster
+Audio by ICEpower
+Built-in speaker
+Built-in microphone
+with Cortana support","VGA camera
+","1x USB 3.2 Gen 1 Type-A 
+1x USB 3.2 Gen 1 Type-C
+2x USB 2.0 Type-A
+1x HDMI 1.4
+1x 3.5mm Combo Audio Jack
+1x DC-in
+Micro SD card reader
+",Slate Grey,NULL,1.80 kg (3.97 lbs),02 Years Warranty (01 year warranty of Battery and Adapter ),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+92000,Intel,Core i5,11th,16,"512GB, SSD",Iris® Xe Max 4GB LPDDR4X,"14-Inch display with IPS (In-Plane Switching) technology, Full HD 1920 x 1080 pixel, high-brightness (300 nits) Acer ComfyViewTM LED-backlit TFT LCD,",3-pin 65 W AC adapter,4-Cell Li-Ion 57 Wh( Maximum 14 Hour),"Windows 10 64-bit
+","Intel Wireless Wi-Fi 6 AX201
+IEEE 802.11 a/b/g/n+ac+ax",83-/84-/87-key full-size FineTip backlit keyboard with international language support,"5.0
+",2 x Stereo Speaker,"HD webcam with 1280 x 720 resolution, 720p HD audio/video recording
+","Mic In
+Multi-Card Slots
+RJ45 LAN
+USB 3.2 port with power-off charging
+2 X USB 3.2 port
+USB Type-C port
+HDMI
+Thunderbolt 4 port",Safari Gold,"Height: 1.79 cm
+Width: 32.2 cm
+Depth: 21.2 cm",1.37 kg,02 Years Warranty (Battery & Adapter 1 year)),NULL,No,NULL,NULL,NULL,"Acer Bio-Protection fingerprint solution, featuring computer protection and Windows Hello Certification; BIOS user, supervisor, HDD passwords, Kensington lock","Multi-gesture touchpad, supporting two-finger scroll; pinch; gestures to open Cortana, Action Center, multitasking; application commands",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+48500,AMD,Ryzen™ 3,NULL,4GB,1TB SSD,AMD Radeon Graphics ( Frequency 1200 MHz ),"14"" HD 1366 x 768 resolution Antiglare LED backlit TFT LCD 1 6:9 aspect ratio","Input Voltage Range IOOV- 240V, 50 Hz AC ",36Whr 3-cell Li-ion battery. Battery Backup Upto 4 Hours +,Free DOS,"802.1 1 b/g/n/ac wireless
+LAN
+Bluetooth@ 4.2
+Gigabit Ethernet, wake-onLAN ready","US English Style Standard Isolated Keys keyboard
+Touchpad with multi-gesture and scrolling function",NULL,Integrated Microphone & Two built-in High Defination speakers For Clear Audio Enhancement,Smart HD webcam,"IxHDMl 
+2xUSB 3.2 Gen 1 Type A IxUSB 3.2 (Geni) Type C
+1 xMicro SD card reader
+1 xRJ45(Gigabit LAN)
+Ix Audio Combo port
+1 xDC-in Jack
+1 xSecurity Lock Slot
+",NULL,325.9(W) x 226.9(D) x 20.9(H) ,1.5 kgs ,2 Years,Ryzen 3 3250U Chipset ,NULL,NULL,NULL,NULL,NULL,Touchpad with multi gesture and scrolling function,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+152000,AMD,Ryzen 7,NULL,16,256 GB SSD,NVIDIA GeForce RTX 3050 Ti with 4 GB GDDR6 memory,"15.6"" 144Hz display with IPS (In-Plane Switching) technology, Full HD 1920 x 1080, Acer ComfyViewTM LED-backlit TFT LCD",180W,"4-cell Li-ion battery, Lithium-Ion (Li-Ion), 57.5 Wh",Windows 10 Home,"802.11a/b/g/n/acR2+ax 
+Killer Ethernet E2600
+",Backlight Keyboard Number pad available,v5.1,"Built-in Stereo Speakers 
+DTS X: Ultra Audio",Acer HD Webcam,"USB 3.2 Gen 1 (SuperSpeed USB 5Gbps) 
+USB 3.2 Gen 2 Type-A (10Gbps + Offline Charge) 
+USB 3.2 Gen 2 Type-C (SuperSpeed USB 10Gbps) 
+HDMI 2.0 (High-speed) 
+Audio Jack Comb 
+RJ45 ",Shale Black,363.4 x 255 x 23.9 mm ,2.4 kg,2 Years Warranty,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+63500,Intel,Core i5,11th,8GB,1 SSD,Intel Iris Xe Graphics,"15.6"" Full HD 1920 x 1080, high-brightness Acer ComfyView LED-backlit LCD","45 W AC adapter
+",36.7 Wh 2-cell Li-ion battery ( up to 8 Hours ) ,Free Dos,"Wireless LAN Standard: IEEE 802.11a/b/g/n/ac 
+Ethernet Technology: Gigabit Ethernet"," keyboard with Number pad available
+",Bluetooth 5.0,2 x Stereo Speaker,Acer webcam with 640 x 480 resolution,"2 x USB 3.2 Gen 1 Type-A 
+1 x USB 2.0 
+HDMI 
+Network (RJ-45) 
+Headphone ",Charcoal Black,"363.4 x 238.4 x 19.90mm
+","1.9 kg
+",02 Years Warranty,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+47500,Intel,Core i3,11th,4GB,1 SSD,"Intel UHD Graphics
+","15.6"" Full HD 1920 x 1080, high-brightness Acer ComfyView LED-backlit LCD","45 W AC adapter
+",36.7 Wh 2-cell Li-ion battery ( up to 8 Hours ) ,Free Dos,"Wireless LAN Standard: IEEE 802.11a/b/g/n/ac 
+Ethernet Technology: Gigabit Ethernet"," keyboard with Number pad available
+",Bluetooth 5.0,2 x Stereo Speaker,Acer webcam with 640 x 480 resolution,"2 x USB 3.2 Gen 1 Type-A 
+1 x USB 2.0 
+HDMI 
+Network (RJ-45) 
+Headphone ",Charcoal Black,"363.4 x 238.4 x 19.90mm
+","1.9 kg
+",02 Years Warranty,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+71000,Processor,Type: Core,NULL,8,512 SSD,Iris Xe Graphics,"15.6"" FHD (1920 x 1080), IPS, Acer ComfyView LED-backlit TFT LCD, 16:9 aspect ratio.",65 W,"Number of Cells: 3-cell 
+Battery Chemistry: Lithium-Ion (Li-Ion)
+","Windows 11 Home
+","IEEE 802.11 a/b/g/n/ac/ax 
+Gigabit Ethernet
+","Backlight Keyboard
+",Bluetooth 5.0,"Two stereo speakers buit-in microphone
+",Acer Webcam 1280 x 720,"1 HDMI 
+1 USB 2.0 Ports 
+2 USB 3.2 Gen 1 Type-A Ports 
+1 USB 3.2 Gen 1 Type-C Ports 
+Network (RJ-45) ",Volcanic Gray,"Height: 17.90 mm 
+Width: 363.4 mm 
+Depth: 238.5 mm ","1.80 kg
+",2 Years,NULL,NULL,Yes,NULL,No,"Firmware Trusted Platform Module (TPM) solution 
+Kensington lock 
+BIOS Passwords ",Multi-touch Gesture,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL

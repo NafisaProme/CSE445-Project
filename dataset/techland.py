@@ -36,7 +36,7 @@ with open('dataset/copy.csv', 'w', encoding='utf8', newline='') as f:
 
 with open('dataset/copy.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
-    for page_num in range(1, 2):
+    for page_num in range(1, 14):
         # changing the urls of each page accordingly
         url = url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=100&page=" + str(page_num)
         page = requests.get(url)

@@ -4,7 +4,7 @@ from csv import writer
 
 # to get access to the website
 
-url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=100&page=1"
+url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=2&page=1"
 # request to the website
 page = requests.get(url)
 
@@ -77,7 +77,12 @@ with open('dataset/techland.csv', 'a', encoding='utf8', newline='') as f:
                                 pro_brand = y.split(' ')[0]
                                 pro_mix = y.split(' ')[1] + y.split(' ')[2]
                                 pro_model = 'Core i' + pro_mix.split('-')[0][5]
-                                pro_gen = pro_mix.split('-')[1][0] + pro_mix.split('-')[1][1] + 'th'
+                                pro_gen_split = pro_mix.split('-')[1]
+
+                                if(len(pro_gen_split) >= 2):
+                                    pro_gen = pro_mix.split('-')[1][0] + pro_mix.split('-')[1][1] + 'th'
+                                else:
+                                    pro_gen = pro_gen_split
 
                                 heading_map[headings[1]] = pro_brand
                                 heading_map[headings[2]] = pro_model
@@ -85,6 +90,8 @@ with open('dataset/techland.csv', 'a', encoding='utf8', newline='') as f:
                             else:
                                 pro_brand = y.split(' ')[0]
                                 pro_model = y.split(' ')[1] + ' ' + y.split(' ')[2]
+                                pro_gen = y.split(' ')[3][0] + 'th'
+
                                 heading_map[headings[1]] = pro_brand
                                 heading_map[headings[2]] = pro_model
                         
