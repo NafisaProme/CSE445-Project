@@ -4,7 +4,7 @@ from csv import writer
 
 # to get access to the website
 
-url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=10&page=1"
+url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=100&page=1"
 # request to the website
 page = requests.get(url)
 
@@ -38,7 +38,7 @@ with open('dataset/copy.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for page_num in range(1, 2):
         # changing the urls of each page accordingly
-        url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=10&page=" + str(page_num)
+        url = url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=100&page=" + str(page_num)
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
 

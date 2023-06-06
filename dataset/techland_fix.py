@@ -4,17 +4,16 @@ from csv import writer
 
 # to get access to the website
 
-url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=3&page=1"
+url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=100&page=1"
 # request to the website
 page = requests.get(url)
-
 
 # create an object
 soup = BeautifulSoup(page.content, 'html.parser')
 laptop_links = []
 headings = ['Price', 'Processor Brand', 'Processor Model', 'Generation', 'RAM']
 
-with open('dataset/copy.csv', 'w', encoding='utf8', newline='') as f:
+with open('dataset/techland.csv', 'w', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for laptop in soup.find_all('div', class_='name'):
         laptop_link = laptop.find('a')['href']
@@ -36,11 +35,11 @@ with open('dataset/copy.csv', 'w', encoding='utf8', newline='') as f:
     print(headings)
     print(len(headings))
 
-with open('dataset/copy.csv', 'a', encoding='utf8', newline='') as f:
+with open('dataset/techland.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
-    for page_num in range(1, 2):
+    for page_num in range(1, 14):
         # changing the urls of each page accordingly
-        url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=5&page=" + str(page_num)
+        url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=100&page=" + str(page_num)
         page = requests.get(url)
         soup = BeautifulSoup(page.content, 'html.parser')
 
@@ -95,12 +94,6 @@ with open('dataset/copy.csv', 'a', encoding='utf8', newline='') as f:
                         
                         elif x == 'Storage':
                             y = y.split(' ')[0] + " SSD"
-                            heading_map[x] = y
-
-                        elif x == 'Display':
-                            y = y.split(' ')[0]
-                            if len(y) == 2:
-                                y += '"'
                             heading_map[x] = y
 
                         else:
