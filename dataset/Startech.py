@@ -118,8 +118,12 @@ with open('dataset/copy.csv', 'a', encoding='utf8', newline='') as f:
 
                                 if '"' in y:
                                     y = y.rstrip(y[-1])
-                                print(y)
                                 heading_map[x] = y
+                            
+                            elif x == 'Battery Capacity':
+                                y = y[0:2]
+                                heading_map[x] = y
+                                print(y)
 
                             else:
                                 heading_map[x] = y
