@@ -84,7 +84,5 @@ with open('dataset/ryans.csv', 'w', newline='') as myfile:
             info = []
             for heads in headings:
                 info.append(heading_map[heads])
-            
-            print(info)
-
+    
             wr.writerow(info)
