@@ -76,6 +76,10 @@ with open('dataset/ryans.csv', 'w', newline='') as myfile:
                 elif x == 'Processor Max Turbo Frequency':
                     y = y[0:3]
                     print(y)
+                
+                elif x == 'Battery Capacity':
+                    y = y[0:2]
+                    print(y)
 
                 heading_map[x] = y
             
