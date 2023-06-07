@@ -81,12 +81,16 @@ with open('dataset/copy.csv', 'a', encoding='utf8', newline='') as f:
 
                             if x == 'Processor Model':
                                 if 'Ryzen' in y:
-                                    pro_gen = y.split(' ')[2][0] + 'th Gen'
-                                    heading_map['Generation'] = pro_gen
+                                    print(y)
+                                    if len(y.split(' ')) >= 3:
+                                        pro_gen = y.split(' ')[2][0] + 'th Gen'
+                                        heading_map['Generation'] = pro_gen
+                                    
                                     y = y.split(' ')[0] + ' ' + y.split(' ')[1]
                                     print(pro_gen)
-                                else:
+                                elif ('Core' or 'core') in y:
                                     y = y.split('-')[0]
+
                                     if len(y.split(' ')) >= 2:
                                         y = y.split(' ')[0] + ' ' + y.split(' ')[1]
                                                                     
@@ -111,6 +115,9 @@ with open('dataset/copy.csv', 'a', encoding='utf8', newline='') as f:
                                     y = y.split(' ')[0]
                                 elif len(y.split('-')) >= 2:
                                     y = y.split('-')[0]
+
+                                if '"' in y:
+                                    y = y.rstrip(y[-1])
                                 print(y)
                                 heading_map[x] = y
 
