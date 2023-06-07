@@ -4,14 +4,14 @@ from csv import writer
 
 # to get access to the website
 
-url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=2&page=1"
+url = "https://www.techlandbd.com/shop-laptop-computer/brand-laptops?limit=100&page=1"
 # request to the website
 page = requests.get(url)
 
 # create an object
 soup = BeautifulSoup(page.content, 'html.parser')
 laptop_links = []
-headings = ['Price', 'Processor Brand', 'Processor Model', 'Generation', 'RAM']
+headings = ['Price', 'Brand', 'Processor', 'Processor Brand', 'Processor Model', 'Generation', 'RAM']
 
 with open('dataset/techland.csv', 'w', encoding='utf8', newline='') as f:
     thewriter = writer(f)
@@ -25,7 +25,7 @@ with open('dataset/techland.csv', 'w', encoding='utf8', newline='') as f:
 
         heading = laptop_soup.find_all('td', class_='attribute-name')
 
-        leave = ['Processor', 'Memory']
+        leave = ['Memory']
         for head in heading:
             if head.text not in leave:
                 headings.append(head.text)
@@ -60,6 +60,11 @@ with open('dataset/techland.csv', 'a', encoding='utf8', newline='') as f:
                 if i != ',':
                     final_cost += i
 
+            # getting the laptop brand
+            brand = laptop_soup.find('div', class_='title page-title')
+            brand = brand.text.split(' ')[0]
+            print(brand)
+
             heading = laptop_soup.find('div', class_='table-responsive')
             heading_map = dict(zip(headings, ["NULL"] * len(headings)))
 
@@ -74,39 +79,34 @@ with open('dataset/techland.csv', 'a', encoding='utf8', newline='') as f:
 
                         if x == 'Processor':
                             if 'Intel' in y:
-                                pro_brand = y.split(' ')[0]
-                                pro_mix = y.split(' ')[1] + y.split(' ')[2]
-                                pro_model = 'Core i' + pro_mix.split('-')[0][5]
-                                pro_gen_split = pro_mix.split('-')[1]
-
-                                if(len(pro_gen_split) >= 2):
-                                    pro_gen = pro_mix.split('-')[1][0] + pro_mix.split('-')[1][1] + 'th'
-                                else:
-                                    pro_gen = pro_gen_split
-
-                                heading_map[headings[1]] = pro_brand
-                                heading_map[headings[2]] = pro_model
-                                heading_map[headings[3]] = pro_gen
+                                heading_map[headings[2]] = y
                             else:
                                 pro_brand = y.split(' ')[0]
                                 pro_model = y.split(' ')[1] + ' ' + y.split(' ')[2]
-                                pro_gen = y.split(' ')[3][0] + 'th'
+                                pro_gen = y.split(' ')[3][0] + 'th Gen'
 
-                                heading_map[headings[1]] = pro_brand
-                                heading_map[headings[2]] = pro_model
+                                heading_map[headings[2]] = y
+                                heading_map[headings[3]] = pro_brand
+                                heading_map[headings[4]] = pro_model
+                                heading_map[headings[5]] = pro_gen
                         
                         elif x == 'Memory':
                             y = y.split(' ')[0]
-                            heading_map[headings[4]] = y
+                            heading_map[headings[6]] = y
                         
                         elif x == 'Storage':
-                            y = y.split(' ')[0] + " SSD"
+                            y = y.split(' ')[0]
+                            if 'GB' not in y:
+                                y += 'GB SSD'
+                            else:
+                                y += ' SSD'
                             heading_map[x] = y
 
                         else:
                             heading_map[x] = y
 
                 heading_map['Price'] = final_cost
+                heading_map['Brand'] = brand
 
                 info = []
                 for heads in headings:
