@@ -3,14 +3,14 @@ from bs4 import BeautifulSoup
 import csv
 
 # Send a GET request to the website
-url = 'https://www.ryanscomputers.com/category/laptop-all-laptop?limit=10&osp=0'
+url = 'https://www.ryanscomputers.com/category/laptop-all-laptop?limit=400&osp=0'
 response = requests.get(url)
 
 # Parse the HTML content using BeautifulSoup
 soup = BeautifulSoup(response.content, 'html.parser')
 
 # opening the file and writing to it
-with open('dataset/copy.csv', 'w', newline='') as myfile:
+with open('dataset/ryans.csv', 'w', newline='') as myfile:
     wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
     headings = ['Price']
 
@@ -30,7 +30,7 @@ with open('dataset/copy.csv', 'w', newline='') as myfile:
 
     headings = list(dict.fromkeys(headings))
     wr.writerow(headings)
-    print(len(headings))
+    print(headings)
 
     # extracting the specification of all the laptops in the page, viewing the details
     for laptop in soup.find_all('p', class_='card-text p-0 m-0 list-view-text'):
@@ -60,7 +60,7 @@ with open('dataset/copy.csv', 'w', newline='') as myfile:
 
         heading_map = dict(zip(headings, ["NULL"] * len(headings)))
 
-        if len(data) > 0:
+        if len(detail) > 0:
             for data in range(len(detail)):
             # print(data)
                 x = heading[data].text.strip()
@@ -68,6 +68,14 @@ with open('dataset/copy.csv', 'w', newline='') as myfile:
                 
                 if x == "Generation" and y != "Not Applicable":
                     y = y.split(' ')[0] + " Gen"
+                
+                elif x == 'Processor Base Frequency':
+                    y = y[0:3]
+                    print(y)
+
+                elif x == 'Processor Max Turbo Frequency':
+                    y = y[0:3]
+                    print(y)
 
                 heading_map[x] = y
             
@@ -76,5 +84,7 @@ with open('dataset/copy.csv', 'w', newline='') as myfile:
             info = []
             for heads in headings:
                 info.append(heading_map[heads])
+            
+            print(info)
 
             wr.writerow(info)

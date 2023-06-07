@@ -11,9 +11,9 @@ page = requests.get(url)
 # create an object
 soup = BeautifulSoup(page.content, 'html.parser')
 laptop_links = []
-headings = ['Price', 'Brand']
+headings = ['Price', 'Brand', 'Processor Base Frequency', 'Processor Max Frequency']
 
-with open('dataset/Startech.csv', 'w', encoding='utf8', newline='') as f:
+with open('dataset/copy.csv', 'w', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for laptop in soup.find_all('h4', class_='p-item-name'):
         laptop_link = laptop.find('a')['href']
@@ -24,15 +24,16 @@ with open('dataset/Startech.csv', 'w', encoding='utf8', newline='') as f:
         laptop_soup = BeautifulSoup(laptop_html, 'html.parser')
 
         heading = laptop_soup.find_all('td', class_='name')
-
+        leave = ['Processor Frequency']
         for head in heading:
-            headings.append(head.text)
+            if head.text not in leave:
+                headings.append(head.text)
 
     headings = list(dict.fromkeys(headings))
     thewriter.writerow(headings)
     print(len(headings))
 
-with open('dataset/Startech.csv', 'a', encoding='utf8', newline='') as f:
+with open('dataset/copy.csv', 'a', encoding='utf8', newline='') as f:
     thewriter = writer(f)
     for page_num in range(1, 9):
         url = url[:-1]
@@ -67,27 +68,61 @@ with open('dataset/Startech.csv', 'a', encoding='utf8', newline='') as f:
                 heading = laptop_soup.find_all('td', class_='name')
                 lists = laptop_soup.find_all('div', class_='product-details content')
 
-                for list in lists:
+                for list in lists :
                     num = list.find_all('td', class_='value')
 
                     heading_map = dict(zip(headings, ["NULL"] * len(headings)))
 
                     # mapping the properties to the values
-                    for data in range(len(num)):
-                        x = heading[data].text.strip()
-                        y = num[data].text.strip()
+                    if len(num) > 0:
+                        for data in range(len(num)):
+                            x = heading[data].text.strip()
+                            y = num[data].text.strip()
 
-                        if x == "Processor Model":
-                                y = y.split("-")[0]
-                        
-                        heading_map[x] = y
+                            if x == 'Processor Model':
+                                if 'Ryzen' in y:
+                                    pro_gen = y.split(' ')[2][0] + 'th Gen'
+                                    heading_map['Generation'] = pro_gen
+                                    y = y.split(' ')[0] + ' ' + y.split(' ')[1]
+                                    print(pro_gen)
+                                else:
+                                    y = y.split('-')[0]
+                                    if len(y.split(' ')) >= 2:
+                                        y = y.split(' ')[0] + ' ' + y.split(' ')[1]
+                                                                    
+                                heading_map[x] = y
+                            
+                            elif x == 'Processor Frequency':
+                                if 'up to' in y:
+                                    y = y.split(' up to ')
+                                    if len(y) > 1:
+                                        a = y[0][0:3]
+                                        b = y[1][0:3]
+                                    else:
+                                        a = b = y[0][0:3]
+                                else:
+                                    a = b = y[0:3]
 
-                    heading_map["Price"] = laptop_cost
-                    heading_map["Brand"] = brand_name
+                                heading_map['Processor Base Frequency'] = a
+                                heading_map['Processor Max Frequency'] = b
 
-                    # inserting the mapped values into the list, and writing them to the csv file 
-                    info = []
-                    for heads in headings:
-                        info.append(heading_map[heads])
+                            elif x == 'Display Size':
+                                if len(y.split(' ')) >= 2:
+                                    y = y.split(' ')[0]
+                                elif len(y.split('-')) >= 2:
+                                    y = y.split('-')[0]
+                                print(y)
+                                heading_map[x] = y
 
-                    thewriter.writerow(info)
+                            else:
+                                heading_map[x] = y
+
+                        heading_map["Price"] = laptop_cost
+                        heading_map["Brand"] = brand_name
+
+                        # inserting the mapped values into the list, and writing them to the csv file 
+                        info = []
+                        for heads in headings:
+                            info.append(heading_map[heads])
+
+                        thewriter.writerow(info)
