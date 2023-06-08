@@ -21,8 +21,8 @@ if app_mode=='Home':
 elif app_mode == 'Prediction':
     st.image('Images\laptop.jpg',width=600)
     st.text("Sir/Maam,YOU need to fill all the neccesary informations in order to know the price!")
-    
-    st.sidebar.multiselect('choose a Brand',['ASUS', 'Dell', 'HP','Apple'])
+
+    st.sidebar.multiselect('choose a Brand', ['ASUS', 'Dell', 'HP', 'Apple'])
     st.sidebar.multiselect('choose RAM',['8GB', '16GB', '32GB','64GB'])
     st.sidebar.multiselect('choose Processor',['Intel', 'AMD'])
     st.sidebar.multiselect('choose Processor Core ',['Core i3', 'Core i5', 'Core i7'])

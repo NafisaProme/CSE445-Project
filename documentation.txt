@@ -2,4 +2,6 @@ The followings steps were involved:
 1   Data was scraped from the following websites - Ryans, Startech and Techland
 2   The output was collected in a CSV file and were combined.
 3   The raw data was then preprocessed to remove the NULL values and the final dataset acquired
-4   
+4   The setting up of the model deployment:
+        Follow all the procedure from the following website to setup StreamLit: https://www.datacamp.com/tutorial/streamlit
+        
