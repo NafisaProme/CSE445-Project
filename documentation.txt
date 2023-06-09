@@ -4,4 +4,5 @@ The followings steps were involved:
 3   The raw data was then preprocessed to remove the NULL values and the final dataset acquired
 4   The setting up of the model deployment:
         Follow all the procedure from the following website to setup StreamLit: https://www.datacamp.com/tutorial/streamlit
-        
+        Keep the dataset and the model in a pickle file and use them to generate the results
+        Publist the results to a webpage using the features of streamlit

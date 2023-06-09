@@ -27,4 +27,3 @@ elif app_mode == 'Prediction':
     st.sidebar.multiselect('choose Processor',['Intel', 'AMD'])
     st.sidebar.multiselect('choose Processor Core ',['Core i3', 'Core i5', 'Core i7'])
     st.button("Predict")
-
