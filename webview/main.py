@@ -8,7 +8,7 @@ st.title("Laptop Price Predictor 💻")
 
 # importing the model and the pickle dataset 
 df = pickle.load(open("dataset.pkl", "rb"))
-pipe = pickle.load(open("model.pkl", "rb"))
+# pipe = pickle.load(open("model.pkl", "rb"))
 
 headings = ['Brand', 'Processor Brand', 'Processor Model', 'Generation', 'Processor Core', 'Processor Thread', 'CPU Cache', 'RAM', 'RAM Type', 'Storage Capacity', 'Display Size', 'Graphics Memory', 'Battery Capacity']
 heading_map = dict(zip(headings, ["NULL"] * len(headings)))
@@ -70,4 +70,4 @@ if st.button("Predict Price"):
     query = np.array(user_input)
     query = query.reshape(1, 13)
 
-    st.title("The Predicted Price of Laptop = Rs " + str(int(np.exp(pipe.predict(query)[0]))))
+    # st.title("The Predicted Price of Laptop = Rs " + str(int(np.exp(pipe.predict(query)[0]))))
