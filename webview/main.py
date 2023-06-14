@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+import sklearn
 
 # setting the page configuration 
 st.set_page_config(page_title="Laptop Price Predictor", page_icon="💻", layout="wide")
@@ -10,7 +11,7 @@ st.title("Laptop Price Predictor 💻")
 df = pickle.load(open("dataset.pkl", "rb"))
 pipe = pickle.load(open("model.pkl", "rb"))
 
-headings = ['Brand', 'Processor Brand', 'Processor Model', 'Generation', 'Processor Core', 'Processor Thread', 'CPU Cache', 'RAM', 'RAM Type', 'Storage Capacity', 'Display Size', 'Graphics Memory', 'Battery Capacity']
+headings = ['Brand', 'Processor Brand','Processor Model','Generation','RAM','RAM Type','Storage Capacity','Battery Capacity']
 heading_map = dict(zip(headings, ["NULL"] * len(headings)))
 max_len = len(headings)
 
@@ -68,6 +69,6 @@ if st.button("Predict Price"):
 
     # passing the user input as queries 
     query = np.array(user_input)
-    query = query.reshape(1, 13)
+    query = query.reshape(1, 8)
 
-    st.title("The Predicted Price of Laptop = Rs " + str(int(np.exp(pipe.predict(query)[0]))))
+    # st.title("The Predicted Price of Laptop = Taka " + str(int(np.exp(pipe.predict(query)[0]))))
