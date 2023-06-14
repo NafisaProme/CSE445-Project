@@ -2,6 +2,9 @@ import streamlit as st
 import pickle
 import numpy as np
 
+
+
+
 # setting the page configuration 
 st.set_page_config(page_title="Laptop Price Predictor", page_icon="💻", layout="wide")
 st.title("Laptop Price Predictor 💻")
