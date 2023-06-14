@@ -8,7 +8,7 @@ st.title("Laptop Price Predictor 💻")
 
 # importing the model and the pickle dataset 
 df = pickle.load(open("dataset.pkl", "rb"))
-pipe = pickle.load(open("dataset.pkl", "rb"))
+pipe = pickle.load(open("model.pkl", "rb"))
 
 headings = ['Brand', 'Processor Brand', 'Processor Model', 'Generation', 'Processor Core', 'Processor Thread', 'CPU Cache', 'RAM', 'RAM Type', 'Storage Capacity', 'Display Size', 'Graphics Memory', 'Battery Capacity']
 heading_map = dict(zip(headings, ["NULL"] * len(headings)))
